@@ -2,4 +2,4 @@
 
 Quick and dirty analysis of the best selling games containing the "indie" tag.
 
-Dataset from https://www.gamedatacrunch.com/
+Dataset pulled from https://www.gamedatacrunch.com/.
