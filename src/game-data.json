@@ -1,0 +1,4504 @@
+{
+  "entries": [
+    {
+      "steam_appid": 4000,
+      "name": "Garry's Mod",
+      "early_access": -2,
+      "steam_release_date": "2006-11-29",
+      "current_price_usd": 999,
+      "reviews_total": 559742,
+      "unfiltered_reviews_total": 665014
+    },
+    {
+      "steam_appid": 105600,
+      "name": "Terraria",
+      "early_access": -2,
+      "steam_release_date": "2011-05-16",
+      "current_price_usd": 999,
+      "reviews_total": 539692,
+      "unfiltered_reviews_total": 687324
+    },
+    {
+      "steam_appid": 252490,
+      "name": "Rust",
+      "early_access": -2,
+      "steam_release_date": "2018-02-08",
+      "current_price_usd": 3999,
+      "reviews_total": 444396,
+      "unfiltered_reviews_total": 568673
+    },
+    {
+      "steam_appid": 945360,
+      "name": "Among Us",
+      "early_access": -2,
+      "steam_release_date": "2018-11-16",
+      "current_price_usd": 499,
+      "reviews_total": 438988,
+      "unfiltered_reviews_total": 497395
+    },
+    {
+      "steam_appid": 252950,
+      "name": "Rocket League®",
+      "early_access": -2,
+      "steam_release_date": "2015-07-06",
+      "current_price_usd": "",
+      "reviews_total": 337174,
+      "unfiltered_reviews_total": 462207
+    },
+    {
+      "steam_appid": 346110,
+      "name": "ARK: Survival Evolved",
+      "early_access": -2,
+      "steam_release_date": "2017-08-27",
+      "current_price_usd": 4999,
+      "reviews_total": 321176,
+      "unfiltered_reviews_total": 406169
+    },
+    {
+      "steam_appid": 1097150,
+      "name": "Fall Guys: Ultimate Knockout",
+      "early_access": -2,
+      "steam_release_date": "2020-08-03",
+      "current_price_usd": 1999,
+      "reviews_total": 302465,
+      "unfiltered_reviews_total": 343204
+    },
+    {
+      "steam_appid": 227300,
+      "name": "Euro Truck Simulator 2",
+      "early_access": -2,
+      "steam_release_date": "2012-10-12",
+      "current_price_usd": 1999,
+      "reviews_total": 296328,
+      "unfiltered_reviews_total": 395866
+    },
+    {
+      "steam_appid": 413150,
+      "name": "Stardew Valley",
+      "early_access": -2,
+      "steam_release_date": "2016-02-26",
+      "current_price_usd": 1499,
+      "reviews_total": 272365,
+      "unfiltered_reviews_total": 325379
+    },
+    {
+      "steam_appid": 221100,
+      "name": "DayZ",
+      "early_access": -1,
+      "steam_release_date": "2018-12-13",
+      "current_price_usd": 4499,
+      "reviews_total": 214553,
+      "unfiltered_reviews_total": 258950
+    },
+    {
+      "steam_appid": 242760,
+      "name": "The Forest",
+      "early_access": -1,
+      "steam_release_date": "2018-04-30",
+      "current_price_usd": 1999,
+      "reviews_total": 207731,
+      "unfiltered_reviews_total": 246582
+    },
+    {
+      "steam_appid": 739630,
+      "name": "Phasmophobia",
+      "early_access": 1,
+      "steam_release_date": "2020-09-18",
+      "current_price_usd": 1399,
+      "reviews_total": 189224,
+      "unfiltered_reviews_total": 231898
+    },
+    {
+      "steam_appid": 322330,
+      "name": "Don't Starve Together",
+      "early_access": -1,
+      "steam_release_date": "2016-04-21",
+      "current_price_usd": 1499,
+      "reviews_total": 156500,
+      "unfiltered_reviews_total": 244062
+    },
+    {
+      "steam_appid": 275850,
+      "name": "No Man's Sky",
+      "early_access": -2,
+      "steam_release_date": "2016-08-12",
+      "current_price_usd": 2999,
+      "reviews_total": 147816,
+      "unfiltered_reviews_total": 183511
+    },
+    {
+      "steam_appid": 264710,
+      "name": "Subnautica",
+      "early_access": -1,
+      "steam_release_date": "2018-01-23",
+      "current_price_usd": 2999,
+      "reviews_total": 141856,
+      "unfiltered_reviews_total": 154832
+    },
+    {
+      "steam_appid": 391540,
+      "name": "Undertale",
+      "early_access": -2,
+      "steam_release_date": "2015-09-15",
+      "current_price_usd": 999,
+      "reviews_total": 127673,
+      "unfiltered_reviews_total": 146403
+    },
+    {
+      "steam_appid": 367520,
+      "name": "Hollow Knight",
+      "early_access": -2,
+      "steam_release_date": "2017-02-24",
+      "current_price_usd": 1499,
+      "reviews_total": 121566,
+      "unfiltered_reviews_total": 139076
+    },
+    {
+      "steam_appid": 1145360,
+      "name": "Hades",
+      "early_access": -1,
+      "steam_release_date": "2020-09-17",
+      "current_price_usd": 2499,
+      "reviews_total": 114891,
+      "unfiltered_reviews_total": 124506
+    },
+    {
+      "steam_appid": 250900,
+      "name": "The Binding of Isaac: Rebirth",
+      "early_access": -2,
+      "steam_release_date": "2014-11-04",
+      "current_price_usd": 1499,
+      "reviews_total": 110430,
+      "unfiltered_reviews_total": 127248
+    },
+    {
+      "steam_appid": 322170,
+      "name": "Geometry Dash",
+      "early_access": -2,
+      "steam_release_date": "2014-12-22",
+      "current_price_usd": 399,
+      "reviews_total": 102187,
+      "unfiltered_reviews_total": 111226
+    },
+    {
+      "steam_appid": 48700,
+      "name": "Mount & Blade: Warband",
+      "early_access": -2,
+      "steam_release_date": "2010-03-31",
+      "current_price_usd": 499,
+      "reviews_total": 96716,
+      "unfiltered_reviews_total": 124894
+    },
+    {
+      "steam_appid": 477160,
+      "name": "Human: Fall Flat",
+      "early_access": -2,
+      "steam_release_date": "2016-07-22",
+      "current_price_usd": 599,
+      "reviews_total": 96329,
+      "unfiltered_reviews_total": 126366
+    },
+    {
+      "steam_appid": 632360,
+      "name": "Risk of Rain 2",
+      "early_access": -1,
+      "steam_release_date": "2020-08-11",
+      "current_price_usd": 2499,
+      "reviews_total": 94574,
+      "unfiltered_reviews_total": 140449
+    },
+    {
+      "steam_appid": 648800,
+      "name": "Raft",
+      "early_access": 1,
+      "steam_release_date": "2018-05-23",
+      "current_price_usd": 1999,
+      "reviews_total": 87250,
+      "unfiltered_reviews_total": 102532
+    },
+    {
+      "steam_appid": 222880,
+      "name": "Insurgency",
+      "early_access": -2,
+      "steam_release_date": "2014-01-22",
+      "current_price_usd": 1499,
+      "reviews_total": 83663,
+      "unfiltered_reviews_total": 120552
+    },
+    {
+      "steam_appid": 294100,
+      "name": "RimWorld",
+      "early_access": -1,
+      "steam_release_date": "2018-10-17",
+      "current_price_usd": 3499,
+      "reviews_total": 79103,
+      "unfiltered_reviews_total": 96079
+    },
+    {
+      "steam_appid": 262060,
+      "name": "Darkest Dungeon®",
+      "early_access": -1,
+      "steam_release_date": "2016-01-19",
+      "current_price_usd": 2499,
+      "reviews_total": 76105,
+      "unfiltered_reviews_total": 87502
+    },
+    {
+      "steam_appid": 646570,
+      "name": "Slay the Spire",
+      "early_access": -1,
+      "steam_release_date": "2019-01-23",
+      "current_price_usd": 2499,
+      "reviews_total": 74147,
+      "unfiltered_reviews_total": 87319
+    },
+    {
+      "steam_appid": 244850,
+      "name": "Space Engineers",
+      "early_access": -1,
+      "steam_release_date": "2019-02-28",
+      "current_price_usd": 1999,
+      "reviews_total": 74050,
+      "unfiltered_reviews_total": 99739
+    },
+    {
+      "steam_appid": 211820,
+      "name": "Starbound",
+      "early_access": -1,
+      "steam_release_date": "2016-07-22",
+      "current_price_usd": 1499,
+      "reviews_total": 71700,
+      "unfiltered_reviews_total": 148306
+    },
+    {
+      "steam_appid": 219740,
+      "name": "Don't Starve",
+      "early_access": -2,
+      "steam_release_date": "1970-01-01",
+      "current_price_usd": 999,
+      "reviews_total": 70441,
+      "unfiltered_reviews_total": 85923
+    },
+    {
+      "steam_appid": 220200,
+      "name": "Kerbal Space Program",
+      "early_access": -1,
+      "steam_release_date": "2015-04-27",
+      "current_price_usd": 3999,
+      "reviews_total": 70275,
+      "unfiltered_reviews_total": 86839
+    },
+    {
+      "steam_appid": 629760,
+      "name": "MORDHAU",
+      "early_access": -2,
+      "steam_release_date": "2019-04-29",
+      "current_price_usd": 2999,
+      "reviews_total": 69746,
+      "unfiltered_reviews_total": 83470
+    },
+    {
+      "steam_appid": 305620,
+      "name": "The Long Dark",
+      "early_access": -1,
+      "steam_release_date": "2017-08-01",
+      "current_price_usd": 2999,
+      "reviews_total": 66643,
+      "unfiltered_reviews_total": 76890
+    },
+    {
+      "steam_appid": 232090,
+      "name": "Killing Floor 2",
+      "early_access": -1,
+      "steam_release_date": "2016-11-18",
+      "current_price_usd": 2999,
+      "reviews_total": 65793,
+      "unfiltered_reviews_total": 99660
+    },
+    {
+      "steam_appid": 361420,
+      "name": "ASTRONEER",
+      "early_access": -1,
+      "steam_release_date": "2019-02-05",
+      "current_price_usd": 2999,
+      "reviews_total": 62219,
+      "unfiltered_reviews_total": 72000
+    },
+    {
+      "steam_appid": 268910,
+      "name": "Cuphead",
+      "early_access": -2,
+      "steam_release_date": "2017-09-29",
+      "current_price_usd": 1999,
+      "reviews_total": 60955,
+      "unfiltered_reviews_total": 69967
+    },
+    {
+      "steam_appid": 588650,
+      "name": "Dead Cells",
+      "early_access": -1,
+      "steam_release_date": "2018-08-06",
+      "current_price_usd": 2499,
+      "reviews_total": 59811,
+      "unfiltered_reviews_total": 70422
+    },
+    {
+      "steam_appid": 387990,
+      "name": "Scrap Mechanic",
+      "early_access": 1,
+      "steam_release_date": "2016-01-19",
+      "current_price_usd": 1999,
+      "reviews_total": 58755,
+      "unfiltered_reviews_total": 65421
+    },
+    {
+      "steam_appid": 960090,
+      "name": "Bloons TD 6",
+      "early_access": -2,
+      "steam_release_date": "2018-12-17",
+      "current_price_usd": 999,
+      "reviews_total": 58312,
+      "unfiltered_reviews_total": 65870
+    },
+    {
+      "steam_appid": 270880,
+      "name": "American Truck Simulator",
+      "early_access": -2,
+      "steam_release_date": "2016-02-02",
+      "current_price_usd": 1999,
+      "reviews_total": 57769,
+      "unfiltered_reviews_total": 73058
+    },
+    {
+      "steam_appid": 457140,
+      "name": "Oxygen Not Included",
+      "early_access": -1,
+      "steam_release_date": "2019-07-30",
+      "current_price_usd": 2499,
+      "reviews_total": 57568,
+      "unfiltered_reviews_total": 61374
+    },
+    {
+      "steam_appid": 282070,
+      "name": "This War of Mine",
+      "early_access": -2,
+      "steam_release_date": "2014-11-14",
+      "current_price_usd": 1999,
+      "reviews_total": 56637,
+      "unfiltered_reviews_total": 67015
+    },
+    {
+      "steam_appid": 204360,
+      "name": "Castle Crashers®",
+      "early_access": -2,
+      "steam_release_date": "2012-09-26",
+      "current_price_usd": 1499,
+      "reviews_total": 55475,
+      "unfiltered_reviews_total": 75726
+    },
+    {
+      "steam_appid": 674940,
+      "name": "Stick Fight: The Game",
+      "early_access": -2,
+      "steam_release_date": "2017-09-28",
+      "current_price_usd": 499,
+      "reviews_total": 55314,
+      "unfiltered_reviews_total": 68164
+    },
+    {
+      "steam_appid": 393380,
+      "name": "Squad",
+      "early_access": -1,
+      "steam_release_date": "2020-09-23",
+      "current_price_usd": 4999,
+      "reviews_total": 54960,
+      "unfiltered_reviews_total": 74963
+    },
+    {
+      "steam_appid": 424370,
+      "name": "Wolcen: Lords of Mayhem",
+      "early_access": -1,
+      "steam_release_date": "2020-02-13",
+      "current_price_usd": 3999,
+      "reviews_total": 54378,
+      "unfiltered_reviews_total": 59511
+    },
+    {
+      "steam_appid": 1057090,
+      "name": "Ori and the Will of the Wisps",
+      "early_access": -2,
+      "steam_release_date": "2020-03-10",
+      "current_price_usd": 2999,
+      "reviews_total": 54324,
+      "unfiltered_reviews_total": 59914
+    },
+    {
+      "steam_appid": 362890,
+      "name": "Black Mesa",
+      "early_access": -1,
+      "steam_release_date": "2020-03-06",
+      "current_price_usd": 1999,
+      "reviews_total": 53397,
+      "unfiltered_reviews_total": 58051
+    },
+    {
+      "steam_appid": 644560,
+      "name": "Mirror",
+      "early_access": -1,
+      "steam_release_date": "2018-04-19",
+      "current_price_usd": 199,
+      "reviews_total": 52526,
+      "unfiltered_reviews_total": 62128
+    },
+    {
+      "steam_appid": 581320,
+      "name": "Insurgency: Sandstorm",
+      "early_access": -2,
+      "steam_release_date": "2018-12-12",
+      "current_price_usd": 2999,
+      "reviews_total": 51997,
+      "unfiltered_reviews_total": 68125
+    },
+    {
+      "steam_appid": 433340,
+      "name": "Slime Rancher",
+      "early_access": -1,
+      "steam_release_date": "2017-08-01",
+      "current_price_usd": 1999,
+      "reviews_total": 51844,
+      "unfiltered_reviews_total": 59320
+    },
+    {
+      "steam_appid": 379430,
+      "name": "Kingdom Come: Deliverance",
+      "early_access": -2,
+      "steam_release_date": "2018-02-13",
+      "current_price_usd": 2999,
+      "reviews_total": 51738,
+      "unfiltered_reviews_total": 73900
+    },
+    {
+      "steam_appid": 219990,
+      "name": "Grim Dawn",
+      "early_access": -1,
+      "steam_release_date": "2016-02-25",
+      "current_price_usd": 2499,
+      "reviews_total": 50747,
+      "unfiltered_reviews_total": 62060
+    },
+    {
+      "steam_appid": 508440,
+      "name": "Totally Accurate Battle Simulator",
+      "early_access": 1,
+      "steam_release_date": "2019-04-01",
+      "current_price_usd": 1499,
+      "reviews_total": 50571,
+      "unfiltered_reviews_total": 53849
+    },
+    {
+      "steam_appid": 219150,
+      "name": "Hotline Miami",
+      "early_access": -2,
+      "steam_release_date": "2012-10-23",
+      "current_price_usd": 999,
+      "reviews_total": 50169,
+      "unfiltered_reviews_total": 60591
+    },
+    {
+      "steam_appid": 311690,
+      "name": "Enter the Gungeon",
+      "early_access": -2,
+      "steam_release_date": "2016-04-05",
+      "current_price_usd": 1499,
+      "reviews_total": 50022,
+      "unfiltered_reviews_total": 55953
+    },
+    {
+      "steam_appid": 552500,
+      "name": "Warhammer: Vermintide 2",
+      "early_access": -2,
+      "steam_release_date": "2018-03-08",
+      "current_price_usd": 2999,
+      "reviews_total": 47398,
+      "unfiltered_reviews_total": 63309
+    },
+    {
+      "steam_appid": 383870,
+      "name": "Firewatch",
+      "early_access": -2,
+      "steam_release_date": "2016-02-09",
+      "current_price_usd": 1999,
+      "reviews_total": 46554,
+      "unfiltered_reviews_total": 50156
+    },
+    {
+      "steam_appid": 219640,
+      "name": "Chivalry: Medieval Warfare",
+      "early_access": -2,
+      "steam_release_date": "2012-10-16",
+      "current_price_usd": 2499,
+      "reviews_total": 45220,
+      "unfiltered_reviews_total": 65987
+    },
+    {
+      "steam_appid": 212680,
+      "name": "FTL: Faster Than Light",
+      "early_access": -2,
+      "steam_release_date": "2012-09-14",
+      "current_price_usd": 999,
+      "reviews_total": 44942,
+      "unfiltered_reviews_total": 57811
+    },
+    {
+      "steam_appid": 238460,
+      "name": "BattleBlock Theater®",
+      "early_access": -2,
+      "steam_release_date": "2014-05-15",
+      "current_price_usd": 1499,
+      "reviews_total": 44684,
+      "unfiltered_reviews_total": 59621
+    },
+    {
+      "steam_appid": 238320,
+      "name": "Outlast",
+      "early_access": -2,
+      "steam_release_date": "2013-09-04",
+      "current_price_usd": 1999,
+      "reviews_total": 44647,
+      "unfiltered_reviews_total": 67478
+    },
+    {
+      "steam_appid": 3590,
+      "name": "Plants vs. Zombies GOTY Edition",
+      "early_access": -2,
+      "steam_release_date": "2009-05-05",
+      "current_price_usd": 499,
+      "reviews_total": 44269,
+      "unfiltered_reviews_total": 49408
+    },
+    {
+      "steam_appid": 233450,
+      "name": "Prison Architect",
+      "early_access": -1,
+      "steam_release_date": "2015-10-06",
+      "current_price_usd": 2999,
+      "reviews_total": 43639,
+      "unfiltered_reviews_total": 54152
+    },
+    {
+      "steam_appid": 620980,
+      "name": "Beat Saber",
+      "early_access": -1,
+      "steam_release_date": "2019-05-21",
+      "current_price_usd": 2999,
+      "reviews_total": 43190,
+      "unfiltered_reviews_total": 47202
+    },
+    {
+      "steam_appid": 265930,
+      "name": "Goat Simulator",
+      "early_access": -2,
+      "steam_release_date": "2014-04-01",
+      "current_price_usd": 999,
+      "reviews_total": 42378,
+      "unfiltered_reviews_total": 56315
+    },
+    {
+      "steam_appid": 526870,
+      "name": "Satisfactory",
+      "early_access": 1,
+      "steam_release_date": "2020-06-08",
+      "current_price_usd": 2999,
+      "reviews_total": 40203,
+      "unfiltered_reviews_total": 44832
+    },
+    {
+      "steam_appid": 513710,
+      "name": "SCUM",
+      "early_access": 1,
+      "steam_release_date": "2018-08-29",
+      "current_price_usd": 2999,
+      "reviews_total": 39706,
+      "unfiltered_reviews_total": 46249
+    },
+    {
+      "steam_appid": 892970,
+      "name": "Valheim",
+      "early_access": 1,
+      "steam_release_date": "2021-02-02",
+      "current_price_usd": 1999,
+      "reviews_total": 38730,
+      "unfiltered_reviews_total": 43376
+    },
+    {
+      "steam_appid": 261570,
+      "name": "Ori and the Blind Forest",
+      "early_access": -2,
+      "steam_release_date": "2015-03-10",
+      "current_price_usd": 0,
+      "reviews_total": 38632,
+      "unfiltered_reviews_total": 44242
+    },
+    {
+      "steam_appid": 206440,
+      "name": "To the Moon",
+      "early_access": -2,
+      "steam_release_date": "2012-09-07",
+      "current_price_usd": 999,
+      "reviews_total": 38553,
+      "unfiltered_reviews_total": 53098
+    },
+    {
+      "steam_appid": 387290,
+      "name": "Ori and the Blind Forest: Definitive Edition",
+      "early_access": -2,
+      "steam_release_date": "2016-04-27",
+      "current_price_usd": 499,
+      "reviews_total": 37173,
+      "unfiltered_reviews_total": 42464
+    },
+    {
+      "steam_appid": 113200,
+      "name": "The Binding of Isaac",
+      "early_access": -2,
+      "steam_release_date": "2011-09-28",
+      "current_price_usd": 499,
+      "reviews_total": 37057,
+      "unfiltered_reviews_total": 49417
+    },
+    {
+      "steam_appid": 346010,
+      "name": "Besiege",
+      "early_access": -1,
+      "steam_release_date": "2020-02-18",
+      "current_price_usd": 1499,
+      "reviews_total": 36447,
+      "unfiltered_reviews_total": 40570
+    },
+    {
+      "steam_appid": 414340,
+      "name": "Hellblade: Senua's Sacrifice",
+      "early_access": -2,
+      "steam_release_date": "2017-08-07",
+      "current_price_usd": 2999,
+      "reviews_total": 36306,
+      "unfiltered_reviews_total": 42343
+    },
+    {
+      "steam_appid": 239030,
+      "name": "Papers, Please",
+      "early_access": -2,
+      "steam_release_date": "2013-08-08",
+      "current_price_usd": 999,
+      "reviews_total": 35937,
+      "unfiltered_reviews_total": 40405
+    },
+    {
+      "steam_appid": 233860,
+      "name": "Kenshi",
+      "early_access": -1,
+      "steam_release_date": "2018-12-06",
+      "current_price_usd": 2999,
+      "reviews_total": 35345,
+      "unfiltered_reviews_total": 40793
+    },
+    {
+      "steam_appid": 613100,
+      "name": "House Flipper",
+      "early_access": -2,
+      "steam_release_date": "2018-05-17",
+      "current_price_usd": 1999,
+      "reviews_total": 34300,
+      "unfiltered_reviews_total": 37634
+    },
+    {
+      "steam_appid": 221910,
+      "name": "The Stanley Parable",
+      "early_access": -2,
+      "steam_release_date": "2013-10-17",
+      "current_price_usd": 1499,
+      "reviews_total": 34224,
+      "unfiltered_reviews_total": 38997
+    },
+    {
+      "steam_appid": 246620,
+      "name": "Plague Inc: Evolved",
+      "early_access": -1,
+      "steam_release_date": "2016-02-18",
+      "current_price_usd": 1499,
+      "reviews_total": 33521,
+      "unfiltered_reviews_total": 37932
+    },
+    {
+      "steam_appid": 683320,
+      "name": "GRIS",
+      "early_access": -2,
+      "steam_release_date": "2018-12-13",
+      "current_price_usd": 1699,
+      "reviews_total": 33476,
+      "unfiltered_reviews_total": 38777
+    },
+    {
+      "steam_appid": 274190,
+      "name": "Broforce",
+      "early_access": -1,
+      "steam_release_date": "2015-10-15",
+      "current_price_usd": 1499,
+      "reviews_total": 33078,
+      "unfiltered_reviews_total": 41320
+    },
+    {
+      "steam_appid": 244210,
+      "name": "Assetto Corsa",
+      "early_access": -1,
+      "steam_release_date": "2014-12-19",
+      "current_price_usd": 1999,
+      "reviews_total": 32090,
+      "unfiltered_reviews_total": 41167
+    },
+    {
+      "steam_appid": 636480,
+      "name": "Ravenfield",
+      "early_access": 1,
+      "steam_release_date": "2017-05-18",
+      "current_price_usd": 1499,
+      "reviews_total": 31110,
+      "unfiltered_reviews_total": 32479
+    },
+    {
+      "steam_appid": 239820,
+      "name": "Game Dev Tycoon",
+      "early_access": -2,
+      "steam_release_date": "2013-08-29",
+      "current_price_usd": 999,
+      "reviews_total": 30994,
+      "unfiltered_reviews_total": 35141
+    },
+    {
+      "steam_appid": 225080,
+      "name": "Brothers - A Tale of Two Sons",
+      "early_access": -2,
+      "steam_release_date": "2013-09-03",
+      "current_price_usd": 1499,
+      "reviews_total": 30582,
+      "unfiltered_reviews_total": 36651
+    },
+    {
+      "steam_appid": 242920,
+      "name": "Banished",
+      "early_access": -2,
+      "steam_release_date": "2014-02-18",
+      "current_price_usd": 1999,
+      "reviews_total": 30351,
+      "unfiltered_reviews_total": 34880
+    },
+    {
+      "steam_appid": 504230,
+      "name": "Celeste",
+      "early_access": -2,
+      "steam_release_date": "2018-01-25",
+      "current_price_usd": 1999,
+      "reviews_total": 29862,
+      "unfiltered_reviews_total": 32651
+    },
+    {
+      "steam_appid": 376210,
+      "name": "The Isle",
+      "early_access": 1,
+      "steam_release_date": "2015-12-01",
+      "current_price_usd": 1999,
+      "reviews_total": 29495,
+      "unfiltered_reviews_total": 31972
+    },
+    {
+      "steam_appid": 418460,
+      "name": "Rising Storm 2: Vietnam",
+      "early_access": -2,
+      "steam_release_date": "2017-05-30",
+      "current_price_usd": 2499,
+      "reviews_total": 29444,
+      "unfiltered_reviews_total": 42440
+    },
+    {
+      "steam_appid": 460950,
+      "name": "Katana ZERO",
+      "early_access": -2,
+      "steam_release_date": "2019-04-18",
+      "current_price_usd": 1499,
+      "reviews_total": 29421,
+      "unfiltered_reviews_total": 32364
+    },
+    {
+      "steam_appid": 240720,
+      "name": "Getting Over It with Bennett Foddy",
+      "early_access": -2,
+      "steam_release_date": "2017-12-06",
+      "current_price_usd": 799,
+      "reviews_total": 29182,
+      "unfiltered_reviews_total": 32789
+    },
+    {
+      "steam_appid": 1217060,
+      "name": "Gunfire Reborn",
+      "early_access": 1,
+      "steam_release_date": "2020-05-22",
+      "current_price_usd": 1199,
+      "reviews_total": 29084,
+      "unfiltered_reviews_total": 33158
+    },
+    {
+      "steam_appid": 274170,
+      "name": "Hotline Miami 2: Wrong Number",
+      "early_access": -2,
+      "steam_release_date": "2015-03-10",
+      "current_price_usd": 1499,
+      "reviews_total": 28706,
+      "unfiltered_reviews_total": 33250
+    },
+    {
+      "steam_appid": 644930,
+      "name": "They Are Billions",
+      "early_access": -1,
+      "steam_release_date": "2019-06-18",
+      "current_price_usd": 2999,
+      "reviews_total": 28600,
+      "unfiltered_reviews_total": 32340
+    },
+    {
+      "steam_appid": 554620,
+      "name": "Life is Strange: Before the Storm",
+      "early_access": -2,
+      "steam_release_date": "2017-08-31",
+      "current_price_usd": 1699,
+      "reviews_total": 28517,
+      "unfiltered_reviews_total": 32017
+    },
+    {
+      "steam_appid": 848450,
+      "name": "Subnautica: Below Zero",
+      "early_access": 1,
+      "steam_release_date": "2019-01-30",
+      "current_price_usd": 2999,
+      "reviews_total": 27941,
+      "unfiltered_reviews_total": 29878
+    },
+    {
+      "steam_appid": 1118200,
+      "name": "People Playground",
+      "early_access": -2,
+      "steam_release_date": "2019-07-23",
+      "current_price_usd": 999,
+      "reviews_total": 27862,
+      "unfiltered_reviews_total": 29331
+    },
+    {
+      "steam_appid": 774171,
+      "name": "Muse Dash",
+      "early_access": -2,
+      "steam_release_date": "2019-06-19",
+      "current_price_usd": 50,
+      "reviews_total": 27859,
+      "unfiltered_reviews_total": 35758
+    },
+    {
+      "steam_appid": 516750,
+      "name": "My Summer Car",
+      "early_access": 1,
+      "steam_release_date": "2016-10-24",
+      "current_price_usd": 1499,
+      "reviews_total": 27815,
+      "unfiltered_reviews_total": 29820
+    },
+    {
+      "steam_appid": 253230,
+      "name": "A Hat in Time",
+      "early_access": -2,
+      "steam_release_date": "2017-10-05",
+      "current_price_usd": 2999,
+      "reviews_total": 27637,
+      "unfiltered_reviews_total": 35498
+    },
+    {
+      "steam_appid": 200710,
+      "name": "Torchlight II",
+      "early_access": -2,
+      "steam_release_date": "2012-09-20",
+      "current_price_usd": 1999,
+      "reviews_total": 27463,
+      "unfiltered_reviews_total": 38115
+    },
+    {
+      "steam_appid": 838350,
+      "name": "太吾绘卷 The Scroll Of Taiwu",
+      "early_access": 1,
+      "steam_release_date": "2018-09-20",
+      "current_price_usd": 1999,
+      "reviews_total": 27303,
+      "unfiltered_reviews_total": 33769
+    },
+    {
+      "steam_appid": 313120,
+      "name": "Stranded Deep",
+      "early_access": 1,
+      "steam_release_date": "2015-01-23",
+      "current_price_usd": 1499,
+      "reviews_total": 27302,
+      "unfiltered_reviews_total": 29426
+    },
+    {
+      "steam_appid": 632470,
+      "name": "Disco Elysium",
+      "early_access": -2,
+      "steam_release_date": "2019-10-15",
+      "current_price_usd": 2199,
+      "reviews_total": 27169,
+      "unfiltered_reviews_total": 29175
+    },
+    {
+      "steam_appid": 431240,
+      "name": "Golf With Your Friends",
+      "early_access": -1,
+      "steam_release_date": "2020-05-19",
+      "current_price_usd": 1499,
+      "reviews_total": 26605,
+      "unfiltered_reviews_total": 36643
+    },
+    {
+      "steam_appid": 466560,
+      "name": "Northgard",
+      "early_access": -1,
+      "steam_release_date": "2018-03-07",
+      "current_price_usd": 2999,
+      "reviews_total": 26461,
+      "unfiltered_reviews_total": 33192
+    },
+    {
+      "steam_appid": 108600,
+      "name": "Project Zomboid",
+      "early_access": 1,
+      "steam_release_date": "2013-11-08",
+      "current_price_usd": 1499,
+      "reviews_total": 26442,
+      "unfiltered_reviews_total": 34857
+    },
+    {
+      "steam_appid": 334230,
+      "name": "Town of Salem",
+      "early_access": -2,
+      "steam_release_date": "2014-12-15",
+      "current_price_usd": 499,
+      "reviews_total": 25710,
+      "unfiltered_reviews_total": 30271
+    },
+    {
+      "steam_appid": 881100,
+      "name": "Noita",
+      "early_access": -1,
+      "steam_release_date": "2020-10-15",
+      "current_price_usd": 1999,
+      "reviews_total": 25414,
+      "unfiltered_reviews_total": 27535
+    },
+    {
+      "steam_appid": 304430,
+      "name": "INSIDE",
+      "early_access": -2,
+      "steam_release_date": "2016-07-07",
+      "current_price_usd": 1999,
+      "reviews_total": 25411,
+      "unfiltered_reviews_total": 29550
+    },
+    {
+      "steam_appid": 286160,
+      "name": "Tabletop Simulator",
+      "early_access": -1,
+      "steam_release_date": "2015-06-05",
+      "current_price_usd": 1999,
+      "reviews_total": 24492,
+      "unfiltered_reviews_total": 38911
+    },
+    {
+      "steam_appid": 107100,
+      "name": "Bastion",
+      "early_access": -2,
+      "steam_release_date": "2011-08-16",
+      "current_price_usd": 1499,
+      "reviews_total": 24203,
+      "unfiltered_reviews_total": 33229
+    },
+    {
+      "steam_appid": 237930,
+      "name": "Transistor",
+      "early_access": -2,
+      "steam_release_date": "2014-05-20",
+      "current_price_usd": 1999,
+      "reviews_total": 24109,
+      "unfiltered_reviews_total": 27091
+    },
+    {
+      "steam_appid": 955050,
+      "name": "Bright Memory",
+      "early_access": -1,
+      "steam_release_date": "2020-03-25",
+      "current_price_usd": 999,
+      "reviews_total": 23858,
+      "unfiltered_reviews_total": 26089
+    },
+    {
+      "steam_appid": 815370,
+      "name": "Green Hell",
+      "early_access": -1,
+      "steam_release_date": "2019-09-05",
+      "current_price_usd": 2499,
+      "reviews_total": 23254,
+      "unfiltered_reviews_total": 30636
+    },
+    {
+      "steam_appid": 666140,
+      "name": "My Time At Portia",
+      "early_access": -1,
+      "steam_release_date": "2019-01-15",
+      "current_price_usd": 2999,
+      "reviews_total": 23023,
+      "unfiltered_reviews_total": 30143
+    },
+    {
+      "steam_appid": 393420,
+      "name": "Hurtworld",
+      "early_access": -1,
+      "steam_release_date": "2019-12-10",
+      "current_price_usd": 2499,
+      "reviews_total": 22878,
+      "unfiltered_reviews_total": 29694
+    },
+    {
+      "steam_appid": 299740,
+      "name": "Miscreated",
+      "early_access": -1,
+      "steam_release_date": "2018-12-18",
+      "current_price_usd": 1799,
+      "reviews_total": 22831,
+      "unfiltered_reviews_total": 31003
+    },
+    {
+      "steam_appid": 686810,
+      "name": "Hell Let Loose",
+      "early_access": 1,
+      "steam_release_date": "2019-06-06",
+      "current_price_usd": 2999,
+      "reviews_total": 22649,
+      "unfiltered_reviews_total": 36477
+    },
+    {
+      "steam_appid": 285900,
+      "name": "Gang Beasts",
+      "early_access": -1,
+      "steam_release_date": "2017-12-12",
+      "current_price_usd": 1999,
+      "reviews_total": 22492,
+      "unfiltered_reviews_total": 27083
+    },
+    {
+      "steam_appid": 282140,
+      "name": "SOMA",
+      "early_access": -2,
+      "steam_release_date": "2015-09-21",
+      "current_price_usd": 2999,
+      "reviews_total": 22084,
+      "unfiltered_reviews_total": 25839
+    },
+    {
+      "steam_appid": 1366540,
+      "name": "Dyson Sphere Program",
+      "early_access": 1,
+      "steam_release_date": "2021-01-20",
+      "current_price_usd": 1999,
+      "reviews_total": 21755,
+      "unfiltered_reviews_total": 24423
+    },
+    {
+      "steam_appid": 250600,
+      "name": "The Plan",
+      "early_access": -2,
+      "steam_release_date": "2014-02-14",
+      "current_price_usd": 0,
+      "reviews_total": 21543,
+      "unfiltered_reviews_total": 21543
+    },
+    {
+      "steam_appid": 274940,
+      "name": "Depth",
+      "early_access": -2,
+      "steam_release_date": "2014-11-03",
+      "current_price_usd": 1999,
+      "reviews_total": 21362,
+      "unfiltered_reviews_total": 30117
+    },
+    {
+      "steam_appid": 326460,
+      "name": "ShellShock Live",
+      "early_access": -1,
+      "steam_release_date": "2020-05-22",
+      "current_price_usd": 699,
+      "reviews_total": 20935,
+      "unfiltered_reviews_total": 25175
+    },
+    {
+      "steam_appid": 40800,
+      "name": "Super Meat Boy",
+      "early_access": -2,
+      "steam_release_date": "2010-11-30",
+      "current_price_usd": 1499,
+      "reviews_total": 20565,
+      "unfiltered_reviews_total": 28467
+    },
+    {
+      "steam_appid": 383120,
+      "name": "Empyrion - Galactic Survival",
+      "early_access": -1,
+      "steam_release_date": "2020-08-05",
+      "current_price_usd": 1999,
+      "reviews_total": 20540,
+      "unfiltered_reviews_total": 23680
+    },
+    {
+      "steam_appid": 257510,
+      "name": "The Talos Principle",
+      "early_access": -2,
+      "steam_release_date": "2014-12-11",
+      "current_price_usd": 3999,
+      "reviews_total": 20444,
+      "unfiltered_reviews_total": 23140
+    },
+    {
+      "steam_appid": 414700,
+      "name": "Outlast 2",
+      "early_access": -2,
+      "steam_release_date": "2017-04-24",
+      "current_price_usd": 2999,
+      "reviews_total": 20290,
+      "unfiltered_reviews_total": 23782
+    },
+    {
+      "steam_appid": 263280,
+      "name": "Spintires®",
+      "early_access": -2,
+      "steam_release_date": "2014-06-12",
+      "current_price_usd": 199,
+      "reviews_total": 20063,
+      "unfiltered_reviews_total": 30210
+    },
+    {
+      "steam_appid": 319510,
+      "name": "Five Nights at Freddy's",
+      "early_access": -2,
+      "steam_release_date": "2014-08-19",
+      "current_price_usd": 499,
+      "reviews_total": 19782,
+      "unfiltered_reviews_total": 22804
+    },
+    {
+      "steam_appid": 339800,
+      "name": "HuniePop",
+      "early_access": -2,
+      "steam_release_date": "2015-01-19",
+      "current_price_usd": 999,
+      "reviews_total": 19699,
+      "unfiltered_reviews_total": 25162
+    },
+    {
+      "steam_appid": 104900,
+      "name": "ORION: Prelude",
+      "early_access": -2,
+      "steam_release_date": "2013-04-16",
+      "current_price_usd": 99,
+      "reviews_total": 19676,
+      "unfiltered_reviews_total": 29258
+    },
+    {
+      "steam_appid": 880940,
+      "name": "Pummel Party",
+      "early_access": -2,
+      "steam_release_date": "2018-09-20",
+      "current_price_usd": 1499,
+      "reviews_total": 19558,
+      "unfiltered_reviews_total": 24511
+    },
+    {
+      "steam_appid": 1189630,
+      "name": "Path Of Wuxia",
+      "early_access": 1,
+      "steam_release_date": "2020-04-30",
+      "current_price_usd": 1999,
+      "reviews_total": 19383,
+      "unfiltered_reviews_total": 20564
+    },
+    {
+      "steam_appid": 1089980,
+      "name": "The Henry Stickmin Collection",
+      "early_access": -2,
+      "steam_release_date": "2020-08-07",
+      "current_price_usd": 1499,
+      "reviews_total": 19287,
+      "unfiltered_reviews_total": 20126
+    },
+    {
+      "steam_appid": 434570,
+      "name": "Blood and Bacon",
+      "early_access": -2,
+      "steam_release_date": "2016-02-01",
+      "current_price_usd": 99,
+      "reviews_total": 19138,
+      "unfiltered_reviews_total": 24263
+    },
+    {
+      "steam_appid": 553640,
+      "name": "ICEY",
+      "early_access": -2,
+      "steam_release_date": "2016-11-17",
+      "current_price_usd": 1099,
+      "reviews_total": 19129,
+      "unfiltered_reviews_total": 20798
+    },
+    {
+      "steam_appid": 48000,
+      "name": "LIMBO",
+      "early_access": -2,
+      "steam_release_date": "2011-08-02",
+      "current_price_usd": 999,
+      "reviews_total": 19078,
+      "unfiltered_reviews_total": 38061
+    },
+    {
+      "steam_appid": 728880,
+      "name": "Overcooked! 2",
+      "early_access": -2,
+      "steam_release_date": "2018-08-07",
+      "current_price_usd": 2499,
+      "reviews_total": 18896,
+      "unfiltered_reviews_total": 26690
+    },
+    {
+      "steam_appid": 555160,
+      "name": "Pavlov VR",
+      "early_access": 1,
+      "steam_release_date": "2017-02-27",
+      "current_price_usd": 2499,
+      "reviews_total": 18886,
+      "unfiltered_reviews_total": 19979
+    },
+    {
+      "steam_appid": 269210,
+      "name": "Hero Siege",
+      "early_access": -2,
+      "steam_release_date": "2014-01-29",
+      "current_price_usd": 699,
+      "reviews_total": 18747,
+      "unfiltered_reviews_total": 25100
+    },
+    {
+      "steam_appid": 333600,
+      "name": "NEKOPARA Vol. 1",
+      "early_access": -2,
+      "steam_release_date": "2014-12-29",
+      "current_price_usd": 999,
+      "reviews_total": 18683,
+      "unfiltered_reviews_total": 22203
+    },
+    {
+      "steam_appid": 736190,
+      "name": "Chinese Parents",
+      "early_access": -2,
+      "steam_release_date": "2018-09-28",
+      "current_price_usd": 999,
+      "reviews_total": 18642,
+      "unfiltered_reviews_total": 21795
+    },
+    {
+      "steam_appid": 248820,
+      "name": "Risk of Rain",
+      "early_access": -2,
+      "steam_release_date": "2013-11-08",
+      "current_price_usd": 999,
+      "reviews_total": 18632,
+      "unfiltered_reviews_total": 27112
+    },
+    {
+      "steam_appid": 668630,
+      "name": "Tricolour Lovestory",
+      "early_access": -2,
+      "steam_release_date": "2017-09-20",
+      "current_price_usd": 199,
+      "reviews_total": 18460,
+      "unfiltered_reviews_total": 19846
+    },
+    {
+      "steam_appid": 24240,
+      "name": "PAYDAY™ The Heist",
+      "early_access": -2,
+      "steam_release_date": "2011-10-20",
+      "current_price_usd": 1499,
+      "reviews_total": 18335,
+      "unfiltered_reviews_total": 37215
+    },
+    {
+      "steam_appid": 312530,
+      "name": "Duck Game",
+      "early_access": -2,
+      "steam_release_date": "2015-06-04",
+      "current_price_usd": 1299,
+      "reviews_total": 18291,
+      "unfiltered_reviews_total": 28347
+    },
+    {
+      "steam_appid": 751780,
+      "name": "Forager",
+      "early_access": -2,
+      "steam_release_date": "2019-04-18",
+      "current_price_usd": 1999,
+      "reviews_total": 18278,
+      "unfiltered_reviews_total": 22318
+    },
+    {
+      "steam_appid": 942970,
+      "name": "Unheard",
+      "early_access": -2,
+      "steam_release_date": "2019-03-28",
+      "current_price_usd": 699,
+      "reviews_total": 18177,
+      "unfiltered_reviews_total": 19980
+    },
+    {
+      "steam_appid": 420290,
+      "name": "Blackwake",
+      "early_access": -1,
+      "steam_release_date": "2020-02-19",
+      "current_price_usd": 999,
+      "reviews_total": 18146,
+      "unfiltered_reviews_total": 21417
+    },
+    {
+      "steam_appid": 557340,
+      "name": "My Friend Pedro",
+      "early_access": -2,
+      "steam_release_date": "2019-06-20",
+      "current_price_usd": 1999,
+      "reviews_total": 18131,
+      "unfiltered_reviews_total": 20873
+    },
+    {
+      "steam_appid": 903950,
+      "name": "Last Oasis",
+      "early_access": 1,
+      "steam_release_date": "2020-03-26",
+      "current_price_usd": 2999,
+      "reviews_total": 17957,
+      "unfiltered_reviews_total": 20302
+    },
+    {
+      "steam_appid": 228380,
+      "name": "Wreckfest",
+      "early_access": -1,
+      "steam_release_date": "2018-06-14",
+      "current_price_usd": 2999,
+      "reviews_total": 17932,
+      "unfiltered_reviews_total": 23309
+    },
+    {
+      "steam_appid": 501300,
+      "name": "What Remains of Edith Finch",
+      "early_access": -2,
+      "steam_release_date": "2017-04-24",
+      "current_price_usd": 1999,
+      "reviews_total": 17736,
+      "unfiltered_reviews_total": 19122
+    },
+    {
+      "steam_appid": 823500,
+      "name": "BONEWORKS",
+      "early_access": -2,
+      "steam_release_date": "2019-12-10",
+      "current_price_usd": 2999,
+      "reviews_total": 17723,
+      "unfiltered_reviews_total": 18585
+    },
+    {
+      "steam_appid": 420530,
+      "name": "OneShot",
+      "early_access": -2,
+      "steam_release_date": "2015-12-31",
+      "current_price_usd": 999,
+      "reviews_total": 17708,
+      "unfiltered_reviews_total": 19375
+    },
+    {
+      "steam_appid": 207140,
+      "name": "SpeedRunners",
+      "early_access": -1,
+      "steam_release_date": "2016-04-19",
+      "current_price_usd": 1499,
+      "reviews_total": 17588,
+      "unfiltered_reviews_total": 28860
+    },
+    {
+      "steam_appid": 418240,
+      "name": "Shadow Tactics: Blades of the Shogun",
+      "early_access": -2,
+      "steam_release_date": "2016-12-06",
+      "current_price_usd": 3999,
+      "reviews_total": 17465,
+      "unfiltered_reviews_total": 22136
+    },
+    {
+      "steam_appid": 322500,
+      "name": "SUPERHOT",
+      "early_access": -2,
+      "steam_release_date": "2016-02-25",
+      "current_price_usd": 2499,
+      "reviews_total": 16941,
+      "unfiltered_reviews_total": 25857
+    },
+    {
+      "steam_appid": 424840,
+      "name": "Little Nightmares",
+      "early_access": -2,
+      "steam_release_date": "2017-04-27",
+      "current_price_usd": 1999,
+      "reviews_total": 16818,
+      "unfiltered_reviews_total": 23170
+    },
+    {
+      "steam_appid": 447820,
+      "name": "Day of Infamy",
+      "early_access": -1,
+      "steam_release_date": "2017-03-23",
+      "current_price_usd": 1499,
+      "reviews_total": 16651,
+      "unfiltered_reviews_total": 21048
+    },
+    {
+      "steam_appid": 41070,
+      "name": "Serious Sam 3: BFE",
+      "early_access": -2,
+      "steam_release_date": "2011-11-22",
+      "current_price_usd": 3999,
+      "reviews_total": 16452,
+      "unfiltered_reviews_total": 22343
+    },
+    {
+      "steam_appid": 260230,
+      "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+      "early_access": -2,
+      "steam_release_date": "2014-06-25",
+      "current_price_usd": 1499,
+      "reviews_total": 16425,
+      "unfiltered_reviews_total": 19164
+    },
+    {
+      "steam_appid": 535930,
+      "name": "Two Point Hospital",
+      "early_access": -2,
+      "steam_release_date": "2018-08-29",
+      "current_price_usd": 3499,
+      "reviews_total": 16290,
+      "unfiltered_reviews_total": 22420
+    },
+    {
+      "steam_appid": 221640,
+      "name": "Super Hexagon",
+      "early_access": -2,
+      "steam_release_date": "2012-11-27",
+      "current_price_usd": 299,
+      "reviews_total": 16024,
+      "unfiltered_reviews_total": 22298
+    },
+    {
+      "steam_appid": 384190,
+      "name": "ABZU",
+      "early_access": -2,
+      "steam_release_date": "2016-08-02",
+      "current_price_usd": 1999,
+      "reviews_total": 15812,
+      "unfiltered_reviews_total": 20092
+    },
+    {
+      "steam_appid": 599140,
+      "name": "Graveyard Keeper",
+      "early_access": -2,
+      "steam_release_date": "2018-08-15",
+      "current_price_usd": 1999,
+      "reviews_total": 15699,
+      "unfiltered_reviews_total": 19815
+    },
+    {
+      "steam_appid": 241540,
+      "name": "State of Decay",
+      "early_access": -2,
+      "steam_release_date": "2013-11-05",
+      "current_price_usd": 0,
+      "reviews_total": 15500,
+      "unfiltered_reviews_total": 17722
+    },
+    {
+      "steam_appid": 42910,
+      "name": "Magicka",
+      "early_access": -2,
+      "steam_release_date": "2011-01-25",
+      "current_price_usd": 999,
+      "reviews_total": 15495,
+      "unfiltered_reviews_total": 26503
+    },
+    {
+      "steam_appid": 288160,
+      "name": "The Room",
+      "early_access": -2,
+      "steam_release_date": "2014-07-28",
+      "current_price_usd": 499,
+      "reviews_total": 15459,
+      "unfiltered_reviews_total": 16289
+    },
+    {
+      "steam_appid": 386940,
+      "name": "Ultimate Chicken Horse",
+      "early_access": -2,
+      "steam_release_date": "2016-03-04",
+      "current_price_usd": 1499,
+      "reviews_total": 15452,
+      "unfiltered_reviews_total": 19971
+    },
+    {
+      "steam_appid": 383980,
+      "name": "Rivals of Aether",
+      "early_access": -1,
+      "steam_release_date": "2017-03-28",
+      "current_price_usd": 2999,
+      "reviews_total": 15009,
+      "unfiltered_reviews_total": 17202
+    },
+    {
+      "steam_appid": 373420,
+      "name": "Divinity: Original Sin - Enhanced Edition",
+      "early_access": -2,
+      "steam_release_date": "2015-10-27",
+      "current_price_usd": 3999,
+      "reviews_total": 14936,
+      "unfiltered_reviews_total": 18805
+    },
+    {
+      "steam_appid": 895400,
+      "name": "Deadside",
+      "early_access": 1,
+      "steam_release_date": "2020-04-14",
+      "current_price_usd": 1999,
+      "reviews_total": 14930,
+      "unfiltered_reviews_total": 17215
+    },
+    {
+      "steam_appid": 674020,
+      "name": "World War 3",
+      "early_access": 1,
+      "steam_release_date": "2018-10-19",
+      "current_price_usd": 0,
+      "reviews_total": 14894,
+      "unfiltered_reviews_total": 18596
+    },
+    {
+      "steam_appid": 753640,
+      "name": "Outer Wilds",
+      "early_access": -2,
+      "steam_release_date": "2020-06-18",
+      "current_price_usd": 2499,
+      "reviews_total": 14846,
+      "unfiltered_reviews_total": 15719
+    },
+    {
+      "steam_appid": 967050,
+      "name": "Pacify",
+      "early_access": -2,
+      "steam_release_date": "2019-02-22",
+      "current_price_usd": 499,
+      "reviews_total": 14415,
+      "unfiltered_reviews_total": 19024
+    },
+    {
+      "steam_appid": 629730,
+      "name": "Blade and Sorcery",
+      "early_access": 1,
+      "steam_release_date": "2018-12-11",
+      "current_price_usd": 1999,
+      "reviews_total": 14398,
+      "unfiltered_reviews_total": 15092
+    },
+    {
+      "steam_appid": 247730,
+      "name": "Nether: Resurrected",
+      "early_access": -1,
+      "steam_release_date": "2014-06-05",
+      "current_price_usd": 499,
+      "reviews_total": 14216,
+      "unfiltered_reviews_total": 17453
+    },
+    {
+      "steam_appid": 1147560,
+      "name": "Skul: The Hero Slayer",
+      "early_access": -1,
+      "steam_release_date": "2021-01-20",
+      "current_price_usd": 1999,
+      "reviews_total": 14194,
+      "unfiltered_reviews_total": 15844
+    },
+    {
+      "steam_appid": 824270,
+      "name": "KovaaK 2.0",
+      "early_access": -2,
+      "steam_release_date": "2018-04-03",
+      "current_price_usd": 999,
+      "reviews_total": 14191,
+      "unfiltered_reviews_total": 15061
+    },
+    {
+      "steam_appid": 427730,
+      "name": "Who's Your Daddy?!",
+      "early_access": -1,
+      "steam_release_date": "2016-05-13",
+      "current_price_usd": 499,
+      "reviews_total": 14112,
+      "unfiltered_reviews_total": 17430
+    },
+    {
+      "steam_appid": 241600,
+      "name": "Rogue Legacy",
+      "early_access": -2,
+      "steam_release_date": "2013-06-27",
+      "current_price_usd": 1499,
+      "reviews_total": 14079,
+      "unfiltered_reviews_total": 16817
+    },
+    {
+      "steam_appid": 57300,
+      "name": "Amnesia: The Dark Descent",
+      "early_access": -2,
+      "steam_release_date": "2010-09-08",
+      "current_price_usd": 1999,
+      "reviews_total": 14006,
+      "unfiltered_reviews_total": 26738
+    },
+    {
+      "steam_appid": 475550,
+      "name": "Beholder",
+      "early_access": -2,
+      "steam_release_date": "2016-11-09",
+      "current_price_usd": 999,
+      "reviews_total": 13929,
+      "unfiltered_reviews_total": 16508
+    },
+    {
+      "steam_appid": 245170,
+      "name": "Skullgirls",
+      "early_access": -2,
+      "steam_release_date": "2013-08-22",
+      "current_price_usd": 999,
+      "reviews_total": 13836,
+      "unfiltered_reviews_total": 20735
+    },
+    {
+      "steam_appid": 1167630,
+      "name": "Teardown",
+      "early_access": 1,
+      "steam_release_date": "2020-10-29",
+      "current_price_usd": 1999,
+      "reviews_total": 13708,
+      "unfiltered_reviews_total": 14377
+    },
+    {
+      "steam_appid": 303210,
+      "name": "The Beginner's Guide",
+      "early_access": -2,
+      "steam_release_date": "2015-10-01",
+      "current_price_usd": 999,
+      "reviews_total": 13566,
+      "unfiltered_reviews_total": 16685
+    },
+    {
+      "steam_appid": 250400,
+      "name": "How to Survive",
+      "early_access": -2,
+      "steam_release_date": "2014-08-29",
+      "current_price_usd": 1499,
+      "reviews_total": 13410,
+      "unfiltered_reviews_total": 16453
+    },
+    {
+      "steam_appid": 35720,
+      "name": "Trine 2: Complete Story",
+      "early_access": -2,
+      "steam_release_date": "2013-06-06",
+      "current_price_usd": 1999,
+      "reviews_total": 13184,
+      "unfiltered_reviews_total": 19389
+    },
+    {
+      "steam_appid": 641990,
+      "name": "The Escapists 2",
+      "early_access": -2,
+      "steam_release_date": "2017-08-21",
+      "current_price_usd": 1999,
+      "reviews_total": 13143,
+      "unfiltered_reviews_total": 16454
+    },
+    {
+      "steam_appid": 603850,
+      "name": "Age of History II",
+      "early_access": -2,
+      "steam_release_date": "2018-11-21",
+      "current_price_usd": 499,
+      "reviews_total": 13038,
+      "unfiltered_reviews_total": 13603
+    },
+    {
+      "steam_appid": 1094520,
+      "name": "Sands of Salzaar",
+      "early_access": 1,
+      "steam_release_date": "2020-01-02",
+      "current_price_usd": 1499,
+      "reviews_total": 13011,
+      "unfiltered_reviews_total": 13992
+    },
+    {
+      "steam_appid": 224540,
+      "name": "Ace of Spades: Battle Builder",
+      "early_access": -2,
+      "steam_release_date": "1970-01-01",
+      "current_price_usd": 0,
+      "reviews_total": 13009,
+      "unfiltered_reviews_total": 18791
+    },
+    {
+      "steam_appid": 298630,
+      "name": "The Escapists",
+      "early_access": -1,
+      "steam_release_date": "2015-02-13",
+      "current_price_usd": 1799,
+      "reviews_total": 12913,
+      "unfiltered_reviews_total": 14600
+    },
+    {
+      "steam_appid": 385800,
+      "name": "NEKOPARA Vol. 0",
+      "early_access": -2,
+      "steam_release_date": "2015-08-17",
+      "current_price_usd": 299,
+      "reviews_total": 12653,
+      "unfiltered_reviews_total": 15484
+    },
+    {
+      "steam_appid": 323850,
+      "name": "Move or Die",
+      "early_access": -1,
+      "steam_release_date": "2016-01-21",
+      "current_price_usd": 1499,
+      "reviews_total": 12606,
+      "unfiltered_reviews_total": 17694
+    },
+    {
+      "steam_appid": 527230,
+      "name": "For The King",
+      "early_access": -1,
+      "steam_release_date": "2018-04-19",
+      "current_price_usd": 799,
+      "reviews_total": 12562,
+      "unfiltered_reviews_total": 18174
+    },
+    {
+      "steam_appid": 992300,
+      "name": "嗜血印 Bloody Spell",
+      "early_access": 1,
+      "steam_release_date": "2019-01-15",
+      "current_price_usd": 1999,
+      "reviews_total": 12533,
+      "unfiltered_reviews_total": 14213
+    },
+    {
+      "steam_appid": 991780,
+      "name": "探灵笔记/拾遗记-1V5(Notes of Soul)",
+      "early_access": 1,
+      "steam_release_date": "2019-01-17",
+      "current_price_usd": 1049,
+      "reviews_total": 12527,
+      "unfiltered_reviews_total": 18917
+    },
+    {
+      "steam_appid": 392110,
+      "name": "Endless Space® 2",
+      "early_access": -1,
+      "steam_release_date": "2017-05-18",
+      "current_price_usd": 3999,
+      "reviews_total": 12451,
+      "unfiltered_reviews_total": 16574
+    },
+    {
+      "steam_appid": 289130,
+      "name": "Endless Legend™",
+      "early_access": -1,
+      "steam_release_date": "2014-09-18",
+      "current_price_usd": 2999,
+      "reviews_total": 12332,
+      "unfiltered_reviews_total": 15511
+    },
+    {
+      "steam_appid": 236090,
+      "name": "Dust: An Elysian Tail",
+      "early_access": -2,
+      "steam_release_date": "2013-05-24",
+      "current_price_usd": 1499,
+      "reviews_total": 12213,
+      "unfiltered_reviews_total": 16797
+    },
+    {
+      "steam_appid": 589290,
+      "name": "Holdfast: Nations At War",
+      "early_access": -1,
+      "steam_release_date": "2020-03-05",
+      "current_price_usd": 1999,
+      "reviews_total": 12179,
+      "unfiltered_reviews_total": 13245
+    },
+    {
+      "steam_appid": 239350,
+      "name": "Spelunky",
+      "early_access": -2,
+      "steam_release_date": "2013-08-08",
+      "current_price_usd": 1499,
+      "reviews_total": 12047,
+      "unfiltered_reviews_total": 13709
+    },
+    {
+      "steam_appid": 955900,
+      "name": "Amazing Cultivation Simulator",
+      "early_access": -1,
+      "steam_release_date": "2020-11-24",
+      "current_price_usd": 2499,
+      "reviews_total": 12013,
+      "unfiltered_reviews_total": 14739
+    },
+    {
+      "steam_appid": 264200,
+      "name": "One Finger Death Punch",
+      "early_access": -2,
+      "steam_release_date": "2014-03-03",
+      "current_price_usd": 499,
+      "reviews_total": 11964,
+      "unfiltered_reviews_total": 15587
+    },
+    {
+      "steam_appid": 344760,
+      "name": "Reign Of Kings",
+      "early_access": -1,
+      "steam_release_date": "2015-12-15",
+      "current_price_usd": 999,
+      "reviews_total": 11816,
+      "unfiltered_reviews_total": 14762
+    },
+    {
+      "steam_appid": 232430,
+      "name": "Gone Home",
+      "early_access": -2,
+      "steam_release_date": "2013-08-15",
+      "current_price_usd": 1499,
+      "reviews_total": 11813,
+      "unfiltered_reviews_total": 16337
+    },
+    {
+      "steam_appid": 233720,
+      "name": "Surgeon Simulator",
+      "early_access": -2,
+      "steam_release_date": "2013-04-19",
+      "current_price_usd": 999,
+      "reviews_total": 11803,
+      "unfiltered_reviews_total": 14687
+    },
+    {
+      "steam_appid": 235540,
+      "name": "Warhammer: End Times - Vermintide",
+      "early_access": -2,
+      "steam_release_date": "2015-10-23",
+      "current_price_usd": 2999,
+      "reviews_total": 11592,
+      "unfiltered_reviews_total": 18279
+    },
+    {
+      "steam_appid": 214560,
+      "name": "Mark of the Ninja",
+      "early_access": -2,
+      "steam_release_date": "1970-01-01",
+      "current_price_usd": 0,
+      "reviews_total": 11556,
+      "unfiltered_reviews_total": 15588
+    },
+    {
+      "steam_appid": 428690,
+      "name": "Youtubers Life",
+      "early_access": -1,
+      "steam_release_date": "2017-02-02",
+      "current_price_usd": 2499,
+      "reviews_total": 11531,
+      "unfiltered_reviews_total": 12727
+    },
+    {
+      "steam_appid": 283640,
+      "name": "Salt and Sanctuary",
+      "early_access": -2,
+      "steam_release_date": "2016-05-17",
+      "current_price_usd": 1799,
+      "reviews_total": 11476,
+      "unfiltered_reviews_total": 12587
+    },
+    {
+      "steam_appid": 291650,
+      "name": "Pillars of Eternity",
+      "early_access": -2,
+      "steam_release_date": "2015-03-26",
+      "current_price_usd": 2999,
+      "reviews_total": 11409,
+      "unfiltered_reviews_total": 18515
+    },
+    {
+      "steam_appid": 313340,
+      "name": "Mountain",
+      "early_access": -2,
+      "steam_release_date": "2014-08-18",
+      "current_price_usd": 99,
+      "reviews_total": 11402,
+      "unfiltered_reviews_total": 14247
+    },
+    {
+      "steam_appid": 962730,
+      "name": "Skater XL - The Ultimate Skateboarding Game",
+      "early_access": -1,
+      "steam_release_date": "2020-07-28",
+      "current_price_usd": 3999,
+      "reviews_total": 11402,
+      "unfiltered_reviews_total": 12103
+    },
+    {
+      "steam_appid": 638230,
+      "name": "Journey",
+      "early_access": -2,
+      "steam_release_date": "2020-06-11",
+      "current_price_usd": 1499,
+      "reviews_total": 11363,
+      "unfiltered_reviews_total": 12218
+    },
+    {
+      "steam_appid": 257850,
+      "name": "Hyper Light Drifter",
+      "early_access": -2,
+      "steam_release_date": "2016-03-31",
+      "current_price_usd": 1999,
+      "reviews_total": 11282,
+      "unfiltered_reviews_total": 13906
+    },
+    {
+      "steam_appid": 1046030,
+      "name": "ISLANDERS",
+      "early_access": -2,
+      "steam_release_date": "2019-04-04",
+      "current_price_usd": 499,
+      "reviews_total": 11215,
+      "unfiltered_reviews_total": 11669
+    },
+    {
+      "steam_appid": 278360,
+      "name": "A Story About My Uncle",
+      "early_access": -2,
+      "steam_release_date": "2014-05-28",
+      "current_price_usd": 1499,
+      "reviews_total": 11167,
+      "unfiltered_reviews_total": 26615
+    },
+    {
+      "steam_appid": 653530,
+      "name": "Return of the Obra Dinn",
+      "early_access": -2,
+      "steam_release_date": "2018-10-18",
+      "current_price_usd": 1999,
+      "reviews_total": 11136,
+      "unfiltered_reviews_total": 12252
+    },
+    {
+      "steam_appid": 425580,
+      "name": "The Room Two",
+      "early_access": -2,
+      "steam_release_date": "2016-07-05",
+      "current_price_usd": 499,
+      "reviews_total": 11128,
+      "unfiltered_reviews_total": 11588
+    },
+    {
+      "steam_appid": 858810,
+      "name": "Dawn of Man",
+      "early_access": -2,
+      "steam_release_date": "2019-03-01",
+      "current_price_usd": 2499,
+      "reviews_total": 11050,
+      "unfiltered_reviews_total": 11566
+    },
+    {
+      "steam_appid": 237990,
+      "name": "The Banner Saga",
+      "early_access": -2,
+      "steam_release_date": "2014-01-14",
+      "current_price_usd": 2499,
+      "reviews_total": 10977,
+      "unfiltered_reviews_total": 13114
+    },
+    {
+      "steam_appid": 250760,
+      "name": "Shovel Knight: Treasure Trove",
+      "early_access": -2,
+      "steam_release_date": "2014-06-26",
+      "current_price_usd": 3999,
+      "reviews_total": 10968,
+      "unfiltered_reviews_total": 13144
+    },
+    {
+      "steam_appid": 230290,
+      "name": "Universe Sandbox",
+      "early_access": 1,
+      "steam_release_date": "2015-08-24",
+      "current_price_usd": 2999,
+      "reviews_total": 10965,
+      "unfiltered_reviews_total": 12663
+    },
+    {
+      "steam_appid": 977950,
+      "name": "A Dance of Fire and Ice",
+      "early_access": -2,
+      "steam_release_date": "2019-01-24",
+      "current_price_usd": 599,
+      "reviews_total": 10950,
+      "unfiltered_reviews_total": 11777
+    },
+    {
+      "steam_appid": 219890,
+      "name": "Antichamber",
+      "early_access": -2,
+      "steam_release_date": "2013-01-31",
+      "current_price_usd": 1999,
+      "reviews_total": 10867,
+      "unfiltered_reviews_total": 14632
+    },
+    {
+      "steam_appid": 568220,
+      "name": "Lobotomy Corporation | Monster Management Simulation",
+      "early_access": -1,
+      "steam_release_date": "2018-04-09",
+      "current_price_usd": 2499,
+      "reviews_total": 10865,
+      "unfiltered_reviews_total": 11743
+    },
+    {
+      "steam_appid": 365450,
+      "name": "Hacknet",
+      "early_access": -2,
+      "steam_release_date": "2015-08-12",
+      "current_price_usd": 999,
+      "reviews_total": 10843,
+      "unfiltered_reviews_total": 18856
+    },
+    {
+      "steam_appid": 736220,
+      "name": "Post Scriptum",
+      "early_access": -2,
+      "steam_release_date": "2018-08-09",
+      "current_price_usd": 2999,
+      "reviews_total": 10839,
+      "unfiltered_reviews_total": 14809
+    },
+    {
+      "steam_appid": 774861,
+      "name": "Project Winter",
+      "early_access": -1,
+      "steam_release_date": "2019-05-23",
+      "current_price_usd": 1999,
+      "reviews_total": 10766,
+      "unfiltered_reviews_total": 15368
+    },
+    {
+      "steam_appid": 201790,
+      "name": "Orcs Must Die! 2",
+      "early_access": -2,
+      "steam_release_date": "2012-07-30",
+      "current_price_usd": 1499,
+      "reviews_total": 10651,
+      "unfiltered_reviews_total": 16248
+    },
+    {
+      "steam_appid": 282800,
+      "name": "100% Orange Juice",
+      "early_access": -2,
+      "steam_release_date": "2014-05-16",
+      "current_price_usd": 699,
+      "reviews_total": 10626,
+      "unfiltered_reviews_total": 19484
+    },
+    {
+      "steam_appid": 256290,
+      "name": "Child of Light",
+      "early_access": -2,
+      "steam_release_date": "2014-04-29",
+      "current_price_usd": 1499,
+      "reviews_total": 10625,
+      "unfiltered_reviews_total": 11899
+    },
+    {
+      "steam_appid": 736260,
+      "name": "Baba Is You",
+      "early_access": -2,
+      "steam_release_date": "2019-03-13",
+      "current_price_usd": 1499,
+      "reviews_total": 10624,
+      "unfiltered_reviews_total": 12032
+    },
+    {
+      "steam_appid": 285920,
+      "name": "TerraTech",
+      "early_access": -1,
+      "steam_release_date": "2018-08-10",
+      "current_price_usd": 2499,
+      "reviews_total": 10526,
+      "unfiltered_reviews_total": 13058
+    },
+    {
+      "steam_appid": 953490,
+      "name": "CARRION",
+      "early_access": -2,
+      "steam_release_date": "2020-07-23",
+      "current_price_usd": 1999,
+      "reviews_total": 10392,
+      "unfiltered_reviews_total": 11124
+    },
+    {
+      "steam_appid": 367450,
+      "name": "Poly Bridge",
+      "early_access": -1,
+      "steam_release_date": "2016-07-12",
+      "current_price_usd": 999,
+      "reviews_total": 10286,
+      "unfiltered_reviews_total": 11618
+    },
+    {
+      "steam_appid": 337320,
+      "name": "Paint the Town Red",
+      "early_access": 1,
+      "steam_release_date": "2015-10-13",
+      "current_price_usd": 1999,
+      "reviews_total": 10260,
+      "unfiltered_reviews_total": 11056
+    },
+    {
+      "steam_appid": 242680,
+      "name": "Nuclear Throne",
+      "early_access": -1,
+      "steam_release_date": "2015-12-05",
+      "current_price_usd": 1199,
+      "reviews_total": 10245,
+      "unfiltered_reviews_total": 14009
+    },
+    {
+      "steam_appid": 495890,
+      "name": "Montaro",
+      "early_access": -2,
+      "steam_release_date": "2016-07-25",
+      "current_price_usd": 99,
+      "reviews_total": 10065,
+      "unfiltered_reviews_total": 11583
+    },
+    {
+      "steam_appid": 402710,
+      "name": "Osiris: New Dawn",
+      "early_access": 1,
+      "steam_release_date": "2016-09-28",
+      "current_price_usd": 2499,
+      "reviews_total": 10040,
+      "unfiltered_reviews_total": 11594
+    },
+    {
+      "steam_appid": 843380,
+      "name": "Super Animal Royale",
+      "early_access": 1,
+      "steam_release_date": "2018-12-12",
+      "current_price_usd": 0,
+      "reviews_total": 9915,
+      "unfiltered_reviews_total": 9915
+    },
+    {
+      "steam_appid": 248390,
+      "name": "Craft The World",
+      "early_access": -1,
+      "steam_release_date": "2014-11-24",
+      "current_price_usd": 1899,
+      "reviews_total": 9896,
+      "unfiltered_reviews_total": 11208
+    },
+    {
+      "steam_appid": 445980,
+      "name": "Wizard of Legend",
+      "early_access": -2,
+      "steam_release_date": "2018-05-15",
+      "current_price_usd": 1599,
+      "reviews_total": 9789,
+      "unfiltered_reviews_total": 11987
+    },
+    {
+      "steam_appid": 391720,
+      "name": "Layers of Fear",
+      "early_access": -1,
+      "steam_release_date": "2016-02-15",
+      "current_price_usd": 1999,
+      "reviews_total": 9696,
+      "unfiltered_reviews_total": 21956
+    },
+    {
+      "steam_appid": 823130,
+      "name": "Totally Accurate Battlegrounds",
+      "early_access": -2,
+      "steam_release_date": "2018-06-05",
+      "current_price_usd": 499,
+      "reviews_total": 9693,
+      "unfiltered_reviews_total": 35209
+    },
+    {
+      "steam_appid": 571740,
+      "name": "Golf It!",
+      "early_access": 1,
+      "steam_release_date": "2017-02-17",
+      "current_price_usd": 899,
+      "reviews_total": 9681,
+      "unfiltered_reviews_total": 11911
+    },
+    {
+      "steam_appid": 35700,
+      "name": "Trine Enchanted Edition",
+      "early_access": -2,
+      "steam_release_date": "2009-07-02",
+      "current_price_usd": 1499,
+      "reviews_total": 9678,
+      "unfiltered_reviews_total": 12194
+    },
+    {
+      "steam_appid": 418340,
+      "name": "RWBY: Grimm Eclipse",
+      "early_access": -1,
+      "steam_release_date": "2016-07-05",
+      "current_price_usd": 1999,
+      "reviews_total": 9641,
+      "unfiltered_reviews_total": 11362
+    },
+    {
+      "steam_appid": 590380,
+      "name": "Into the Breach",
+      "early_access": -2,
+      "steam_release_date": "2018-02-27",
+      "current_price_usd": 1499,
+      "reviews_total": 9607,
+      "unfiltered_reviews_total": 11408
+    },
+    {
+      "steam_appid": 503560,
+      "name": "911 Operator",
+      "early_access": -2,
+      "steam_release_date": "2017-02-24",
+      "current_price_usd": 1499,
+      "reviews_total": 9601,
+      "unfiltered_reviews_total": 11087
+    },
+    {
+      "steam_appid": 481510,
+      "name": "Night in the Woods",
+      "early_access": -2,
+      "steam_release_date": "2017-02-21",
+      "current_price_usd": 1999,
+      "reviews_total": 9582,
+      "unfiltered_reviews_total": 11325
+    },
+    {
+      "steam_appid": 602520,
+      "name": "NEKOPARA Vol. 3",
+      "early_access": -2,
+      "steam_release_date": "2017-05-25",
+      "current_price_usd": 999,
+      "reviews_total": 9566,
+      "unfiltered_reviews_total": 10285
+    },
+    {
+      "steam_appid": 527430,
+      "name": "Warhammer 40,000: Inquisitor - Martyr",
+      "early_access": -1,
+      "steam_release_date": "2018-06-05",
+      "current_price_usd": 4999,
+      "reviews_total": 9563,
+      "unfiltered_reviews_total": 11085
+    },
+    {
+      "steam_appid": 704850,
+      "name": "Thief Simulator",
+      "early_access": -2,
+      "steam_release_date": "2018-11-09",
+      "current_price_usd": 1999,
+      "reviews_total": 9528,
+      "unfiltered_reviews_total": 10159
+    },
+    {
+      "steam_appid": 1307550,
+      "name": "Craftopia",
+      "early_access": 1,
+      "steam_release_date": "2020-09-04",
+      "current_price_usd": 2499,
+      "reviews_total": 9503,
+      "unfiltered_reviews_total": 10790
+    },
+    {
+      "steam_appid": 394690,
+      "name": "Tower Unite",
+      "early_access": 1,
+      "steam_release_date": "2016-04-08",
+      "current_price_usd": 1999,
+      "reviews_total": 9458,
+      "unfiltered_reviews_total": 12433
+    },
+    {
+      "steam_appid": 335670,
+      "name": "LISA: The Painful",
+      "early_access": -2,
+      "steam_release_date": "2014-12-15",
+      "current_price_usd": 999,
+      "reviews_total": 9442,
+      "unfiltered_reviews_total": 10688
+    },
+    {
+      "steam_appid": 512900,
+      "name": "Streets of Rogue",
+      "early_access": -1,
+      "steam_release_date": "2019-07-12",
+      "current_price_usd": 1999,
+      "reviews_total": 9430,
+      "unfiltered_reviews_total": 12922
+    },
+    {
+      "steam_appid": 332800,
+      "name": "Five Nights at Freddy's 2",
+      "early_access": -2,
+      "steam_release_date": "2014-11-10",
+      "current_price_usd": 799,
+      "reviews_total": 9377,
+      "unfiltered_reviews_total": 10619
+    },
+    {
+      "steam_appid": 773951,
+      "name": "Freeman: Guerrilla Warfare",
+      "early_access": -1,
+      "steam_release_date": "2019-10-04",
+      "current_price_usd": 2499,
+      "reviews_total": 9374,
+      "unfiltered_reviews_total": 10038
+    },
+    {
+      "steam_appid": 337340,
+      "name": "Finding Paradise",
+      "early_access": -2,
+      "steam_release_date": "2017-12-14",
+      "current_price_usd": 999,
+      "reviews_total": 9348,
+      "unfiltered_reviews_total": 10620
+    },
+    {
+      "steam_appid": 420110,
+      "name": "NEKOPARA Vol. 2",
+      "early_access": -2,
+      "steam_release_date": "2016-02-19",
+      "current_price_usd": 999,
+      "reviews_total": 9318,
+      "unfiltered_reviews_total": 10956
+    },
+    {
+      "steam_appid": 450540,
+      "name": "Hot Dogs, Horseshoes & Hand Grenades",
+      "early_access": 1,
+      "steam_release_date": "2016-04-05",
+      "current_price_usd": 1999,
+      "reviews_total": 9268,
+      "unfiltered_reviews_total": 9662
+    },
+    {
+      "steam_appid": 418530,
+      "name": "Spelunky 2",
+      "early_access": -2,
+      "steam_release_date": "2020-09-29",
+      "current_price_usd": 1999,
+      "reviews_total": 9197,
+      "unfiltered_reviews_total": 10007
+    },
+    {
+      "steam_appid": 473690,
+      "name": "Absolver",
+      "early_access": -2,
+      "steam_release_date": "2017-08-29",
+      "current_price_usd": 2999,
+      "reviews_total": 9190,
+      "unfiltered_reviews_total": 11884
+    },
+    {
+      "steam_appid": 597170,
+      "name": "Clone Drone in the Danger Zone",
+      "early_access": 1,
+      "steam_release_date": "2017-03-16",
+      "current_price_usd": 1999,
+      "reviews_total": 9135,
+      "unfiltered_reviews_total": 10004
+    },
+    {
+      "steam_appid": 985890,
+      "name": "Streets of Rage 4",
+      "early_access": -2,
+      "steam_release_date": "2020-04-30",
+      "current_price_usd": 2499,
+      "reviews_total": 9107,
+      "unfiltered_reviews_total": 10170
+    },
+    {
+      "steam_appid": 368360,
+      "name": "60 Seconds!",
+      "early_access": -2,
+      "steam_release_date": "2015-05-25",
+      "current_price_usd": 899,
+      "reviews_total": 9081,
+      "unfiltered_reviews_total": 10134
+    },
+    {
+      "steam_appid": 448510,
+      "name": "Overcooked",
+      "early_access": -2,
+      "steam_release_date": "2016-08-03",
+      "current_price_usd": 1699,
+      "reviews_total": 8962,
+      "unfiltered_reviews_total": 11171
+    },
+    {
+      "steam_appid": 246900,
+      "name": "Viscera Cleanup Detail",
+      "early_access": -1,
+      "steam_release_date": "2015-10-23",
+      "current_price_usd": 1299,
+      "reviews_total": 8914,
+      "unfiltered_reviews_total": 11936
+    },
+    {
+      "steam_appid": 210970,
+      "name": "The Witness",
+      "early_access": -2,
+      "steam_release_date": "2016-01-26",
+      "current_price_usd": 3999,
+      "reviews_total": 8896,
+      "unfiltered_reviews_total": 11349
+    },
+    {
+      "steam_appid": 531510,
+      "name": "Just Shapes & Beats",
+      "early_access": -2,
+      "steam_release_date": "2018-05-31",
+      "current_price_usd": 1999,
+      "reviews_total": 8865,
+      "unfiltered_reviews_total": 9607
+    },
+    {
+      "steam_appid": 494840,
+      "name": "UBOAT",
+      "early_access": 1,
+      "steam_release_date": "2019-04-30",
+      "current_price_usd": 2999,
+      "reviews_total": 8856,
+      "unfiltered_reviews_total": 9415
+    },
+    {
+      "steam_appid": 774361,
+      "name": "Blasphemous",
+      "early_access": -2,
+      "steam_release_date": "2019-09-10",
+      "current_price_usd": 2499,
+      "reviews_total": 8812,
+      "unfiltered_reviews_total": 12057
+    },
+    {
+      "steam_appid": 206190,
+      "name": "Gunpoint",
+      "early_access": -2,
+      "steam_release_date": "2013-06-03",
+      "current_price_usd": 999,
+      "reviews_total": 8798,
+      "unfiltered_reviews_total": 11659
+    },
+    {
+      "steam_appid": 224760,
+      "name": "FEZ",
+      "early_access": -2,
+      "steam_release_date": "2013-05-01",
+      "current_price_usd": 999,
+      "reviews_total": 8747,
+      "unfiltered_reviews_total": 12782
+    },
+    {
+      "steam_appid": 451340,
+      "name": "Gold Rush: The Game",
+      "early_access": -2,
+      "steam_release_date": "2017-10-13",
+      "current_price_usd": 1999,
+      "reviews_total": 8687,
+      "unfiltered_reviews_total": 9539
+    },
+    {
+      "steam_appid": 211400,
+      "name": "Deadlight",
+      "early_access": -2,
+      "steam_release_date": "2012-10-25",
+      "current_price_usd": 1499,
+      "reviews_total": 8615,
+      "unfiltered_reviews_total": 11852
+    },
+    {
+      "steam_appid": 341940,
+      "name": "Hatred",
+      "early_access": -2,
+      "steam_release_date": "2015-06-01",
+      "current_price_usd": 599,
+      "reviews_total": 8545,
+      "unfiltered_reviews_total": 10061
+    },
+    {
+      "steam_appid": 644570,
+      "name": "Material Girl",
+      "early_access": -2,
+      "steam_release_date": "2017-06-20",
+      "current_price_usd": 199,
+      "reviews_total": 8498,
+      "unfiltered_reviews_total": 8964
+    },
+    {
+      "steam_appid": 1288310,
+      "name": "Firework",
+      "early_access": -2,
+      "steam_release_date": "2021-02-03",
+      "current_price_usd": 999,
+      "reviews_total": 8493,
+      "unfiltered_reviews_total": 9461
+    },
+    {
+      "steam_appid": 368340,
+      "name": "CrossCode",
+      "early_access": -1,
+      "steam_release_date": "2018-09-20",
+      "current_price_usd": 1999,
+      "reviews_total": 8476,
+      "unfiltered_reviews_total": 9943
+    },
+    {
+      "steam_appid": 405640,
+      "name": "Pony Island",
+      "early_access": -2,
+      "steam_release_date": "2016-01-04",
+      "current_price_usd": 499,
+      "reviews_total": 8458,
+      "unfiltered_reviews_total": 11155
+    },
+    {
+      "steam_appid": 851100,
+      "name": "Touhou Luna Nights",
+      "early_access": -1,
+      "steam_release_date": "2019-02-25",
+      "current_price_usd": 1799,
+      "reviews_total": 8391,
+      "unfiltered_reviews_total": 9102
+    },
+    {
+      "steam_appid": 1240210,
+      "name": "There Is No Game: Wrong Dimension",
+      "early_access": -2,
+      "steam_release_date": "2020-08-06",
+      "current_price_usd": 1299,
+      "reviews_total": 8347,
+      "unfiltered_reviews_total": 8936
+    },
+    {
+      "steam_appid": 48720,
+      "name": "Mount & Blade: With Fire & Sword",
+      "early_access": -2,
+      "steam_release_date": "2011-05-03",
+      "current_price_usd": 249,
+      "reviews_total": 8335,
+      "unfiltered_reviews_total": 10549
+    },
+    {
+      "steam_appid": 1128000,
+      "name": "Cube World",
+      "early_access": -2,
+      "steam_release_date": "2019-09-30",
+      "current_price_usd": 1999,
+      "reviews_total": 8332,
+      "unfiltered_reviews_total": 16423
+    },
+    {
+      "steam_appid": 493490,
+      "name": "City Car Driving",
+      "early_access": -2,
+      "steam_release_date": "2016-11-03",
+      "current_price_usd": 2499,
+      "reviews_total": 8330,
+      "unfiltered_reviews_total": 9248
+    },
+    {
+      "steam_appid": 209080,
+      "name": "Guns of Icarus Online",
+      "early_access": -2,
+      "steam_release_date": "2012-10-29",
+      "current_price_usd": 499,
+      "reviews_total": 8295,
+      "unfiltered_reviews_total": 14621
+    },
+    {
+      "steam_appid": 386070,
+      "name": "Planetary Annihilation: TITANS",
+      "early_access": -2,
+      "steam_release_date": "2015-08-18",
+      "current_price_usd": 2999,
+      "reviews_total": 8226,
+      "unfiltered_reviews_total": 10621
+    },
+    {
+      "steam_appid": 555220,
+      "name": "Detention",
+      "early_access": -2,
+      "steam_release_date": "2017-01-12",
+      "current_price_usd": 1199,
+      "reviews_total": 8210,
+      "unfiltered_reviews_total": 12597
+    },
+    {
+      "steam_appid": 519190,
+      "name": "Next Day: Survival",
+      "early_access": -1,
+      "steam_release_date": "2018-05-21",
+      "current_price_usd": 999,
+      "reviews_total": 8194,
+      "unfiltered_reviews_total": 9707
+    },
+    {
+      "steam_appid": 234650,
+      "name": "Shadowrun Returns",
+      "early_access": -2,
+      "steam_release_date": "2013-07-25",
+      "current_price_usd": 1499,
+      "reviews_total": 8177,
+      "unfiltered_reviews_total": 11738
+    },
+    {
+      "steam_appid": 732430,
+      "name": "Superflight",
+      "early_access": -2,
+      "steam_release_date": "2017-11-08",
+      "current_price_usd": 299,
+      "reviews_total": 8163,
+      "unfiltered_reviews_total": 8543
+    },
+    {
+      "steam_appid": 446800,
+      "name": "Transport Fever",
+      "early_access": -2,
+      "steam_release_date": "2016-11-08",
+      "current_price_usd": 2999,
+      "reviews_total": 8110,
+      "unfiltered_reviews_total": 9433
+    },
+    {
+      "steam_appid": 12900,
+      "name": "AudioSurf",
+      "early_access": -2,
+      "steam_release_date": "2008-02-15",
+      "current_price_usd": 999,
+      "reviews_total": 8045,
+      "unfiltered_reviews_total": 10171
+    },
+    {
+      "steam_appid": 290080,
+      "name": "Life is Feudal: Your Own",
+      "early_access": -1,
+      "steam_release_date": "2015-11-17",
+      "current_price_usd": 1999,
+      "reviews_total": 8018,
+      "unfiltered_reviews_total": 10928
+    },
+    {
+      "steam_appid": 249050,
+      "name": "Dungeon of the Endless™",
+      "early_access": -1,
+      "steam_release_date": "2014-10-27",
+      "current_price_usd": 1199,
+      "reviews_total": 7914,
+      "unfiltered_reviews_total": 10489
+    },
+    {
+      "steam_appid": 230230,
+      "name": "Divinity: Original Sin (Classic)",
+      "early_access": -1,
+      "steam_release_date": "2014-06-30",
+      "current_price_usd": 0,
+      "reviews_total": 7864,
+      "unfiltered_reviews_total": 11568
+    },
+    {
+      "steam_appid": 253250,
+      "name": "Stonehearth",
+      "early_access": -1,
+      "steam_release_date": "2018-07-25",
+      "current_price_usd": 1999,
+      "reviews_total": 7823,
+      "unfiltered_reviews_total": 9852
+    },
+    {
+      "steam_appid": 234630,
+      "name": "Project CARS",
+      "early_access": -2,
+      "steam_release_date": "2015-03-15",
+      "current_price_usd": 1999,
+      "reviews_total": 7791,
+      "unfiltered_reviews_total": 12745
+    },
+    {
+      "steam_appid": 351290,
+      "name": "SURVIVAL: Postapocalypse Now",
+      "early_access": -1,
+      "steam_release_date": "2019-12-03",
+      "current_price_usd": 1499,
+      "reviews_total": 7783,
+      "unfiltered_reviews_total": 8858
+    },
+    {
+      "steam_appid": 1222700,
+      "name": "A Way Out",
+      "early_access": -2,
+      "steam_release_date": "2020-06-18",
+      "current_price_usd": 2999,
+      "reviews_total": 7769,
+      "unfiltered_reviews_total": 14231
+    },
+    {
+      "steam_appid": 70000,
+      "name": "Dino D-Day",
+      "early_access": -2,
+      "steam_release_date": "2011-04-08",
+      "current_price_usd": 999,
+      "reviews_total": 7752,
+      "unfiltered_reviews_total": 14815
+    },
+    {
+      "steam_appid": 878750,
+      "name": "Hentai Girl",
+      "early_access": -2,
+      "steam_release_date": "2018-08-17",
+      "current_price_usd": 99,
+      "reviews_total": 7734,
+      "unfiltered_reviews_total": 9387
+    },
+    {
+      "steam_appid": 611790,
+      "name": "House Party",
+      "early_access": 1,
+      "steam_release_date": "2017-06-30",
+      "current_price_usd": 2499,
+      "reviews_total": 7731,
+      "unfiltered_reviews_total": 8421
+    },
+    {
+      "steam_appid": 257420,
+      "name": "Serious Sam 4",
+      "early_access": -2,
+      "steam_release_date": "2020-09-24",
+      "current_price_usd": 3999,
+      "reviews_total": 7700,
+      "unfiltered_reviews_total": 8661
+    },
+    {
+      "steam_appid": 400910,
+      "name": "Rabi-Ribi",
+      "early_access": -2,
+      "steam_release_date": "2016-01-28",
+      "current_price_usd": 1799,
+      "reviews_total": 7700,
+      "unfiltered_reviews_total": 8963
+    },
+    {
+      "steam_appid": 274520,
+      "name": "Darkwood",
+      "early_access": -1,
+      "steam_release_date": "2017-08-17",
+      "current_price_usd": 1499,
+      "reviews_total": 7657,
+      "unfiltered_reviews_total": 8622
+    },
+    {
+      "steam_appid": 682990,
+      "name": "Drug Dealer Simulator",
+      "early_access": -2,
+      "steam_release_date": "2020-04-16",
+      "current_price_usd": 1999,
+      "reviews_total": 7608,
+      "unfiltered_reviews_total": 8082
+    },
+    {
+      "steam_appid": 1291340,
+      "name": "Townscaper",
+      "early_access": 1,
+      "steam_release_date": "2020-06-30",
+      "current_price_usd": 599,
+      "reviews_total": 7606,
+      "unfiltered_reviews_total": 7984
+    },
+    {
+      "steam_appid": 302670,
+      "name": "Call to Arms",
+      "early_access": -1,
+      "steam_release_date": "2015-07-30",
+      "current_price_usd": 1499,
+      "reviews_total": 7593,
+      "unfiltered_reviews_total": 13229
+    },
+    {
+      "steam_appid": 445220,
+      "name": "Avorion",
+      "early_access": -1,
+      "steam_release_date": "2020-03-09",
+      "current_price_usd": 2499,
+      "reviews_total": 7557,
+      "unfiltered_reviews_total": 8288
+    },
+    {
+      "steam_appid": 396750,
+      "name": "EVERSPACE™",
+      "early_access": -1,
+      "steam_release_date": "2017-05-25",
+      "current_price_usd": 2999,
+      "reviews_total": 7550,
+      "unfiltered_reviews_total": 8850
+    },
+    {
+      "steam_appid": 4920,
+      "name": "Natural Selection 2",
+      "early_access": -2,
+      "steam_release_date": "2012-10-30",
+      "current_price_usd": 999,
+      "reviews_total": 7529,
+      "unfiltered_reviews_total": 11762
+    },
+    {
+      "steam_appid": 214340,
+      "name": "Deponia",
+      "early_access": -2,
+      "steam_release_date": "2012-08-06",
+      "current_price_usd": 999,
+      "reviews_total": 7526,
+      "unfiltered_reviews_total": 9755
+    },
+    {
+      "steam_appid": 606150,
+      "name": "Moonlighter",
+      "early_access": -2,
+      "steam_release_date": "2018-05-29",
+      "current_price_usd": 1999,
+      "reviews_total": 7522,
+      "unfiltered_reviews_total": 10475
+    },
+    {
+      "steam_appid": 360940,
+      "name": "The Mean Greens - Plastic Warfare",
+      "early_access": -2,
+      "steam_release_date": "2015-12-08",
+      "current_price_usd": 999,
+      "reviews_total": 7483,
+      "unfiltered_reviews_total": 9298
+    },
+    {
+      "steam_appid": 609320,
+      "name": "FAR: Lone Sails",
+      "early_access": -2,
+      "steam_release_date": "2018-05-17",
+      "current_price_usd": 1499,
+      "reviews_total": 7451,
+      "unfiltered_reviews_total": 8134
+    },
+    {
+      "steam_appid": 341800,
+      "name": "Keep Talking and Nobody Explodes",
+      "early_access": -2,
+      "steam_release_date": "2015-10-08",
+      "current_price_usd": 1499,
+      "reviews_total": 7373,
+      "unfiltered_reviews_total": 8936
+    },
+    {
+      "steam_appid": 266510,
+      "name": "Hand of Fate",
+      "early_access": -1,
+      "steam_release_date": "2015-02-17",
+      "current_price_usd": 1999,
+      "reviews_total": 7348,
+      "unfiltered_reviews_total": 9841
+    },
+    {
+      "steam_appid": 605740,
+      "name": "Flashing Lights - Police, Firefighting, Emergency Services Simulator",
+      "early_access": 1,
+      "steam_release_date": "2018-06-07",
+      "current_price_usd": 1999,
+      "reviews_total": 7334,
+      "unfiltered_reviews_total": 8414
+    },
+    {
+      "steam_appid": 859570,
+      "name": "Secret Neighbor: Hello Neighbor Multiplayer",
+      "early_access": -2,
+      "steam_release_date": "2019-10-24",
+      "current_price_usd": 1999,
+      "reviews_total": 7306,
+      "unfiltered_reviews_total": 9233
+    },
+    {
+      "steam_appid": 287980,
+      "name": "Mini Metro",
+      "early_access": -1,
+      "steam_release_date": "2015-11-06",
+      "current_price_usd": 999,
+      "reviews_total": 7274,
+      "unfiltered_reviews_total": 10461
+    },
+    {
+      "steam_appid": 418030,
+      "name": "Subsistence",
+      "early_access": 1,
+      "steam_release_date": "2016-10-25",
+      "current_price_usd": 1399,
+      "reviews_total": 7270,
+      "unfiltered_reviews_total": 7964
+    },
+    {
+      "steam_appid": 428550,
+      "name": "Momodora: Reverie Under The Moonlight",
+      "early_access": -2,
+      "steam_release_date": "2016-03-04",
+      "current_price_usd": 999,
+      "reviews_total": 7238,
+      "unfiltered_reviews_total": 8308
+    },
+    {
+      "steam_appid": 639790,
+      "name": "DEEP SPACE WAIFU",
+      "early_access": -2,
+      "steam_release_date": "2017-05-31",
+      "current_price_usd": 299,
+      "reviews_total": 7178,
+      "unfiltered_reviews_total": 8492
+    },
+    {
+      "steam_appid": 559650,
+      "name": "Witch It",
+      "early_access": -1,
+      "steam_release_date": "2020-10-22",
+      "current_price_usd": 1999,
+      "reviews_total": 7151,
+      "unfiltered_reviews_total": 9475
+    },
+    {
+      "steam_appid": 300380,
+      "name": "Road Redemption",
+      "early_access": -1,
+      "steam_release_date": "2017-10-04",
+      "current_price_usd": 1999,
+      "reviews_total": 7140,
+      "unfiltered_reviews_total": 9011
+    },
+    {
+      "steam_appid": 557600,
+      "name": "Gorogoa",
+      "early_access": -2,
+      "steam_release_date": "2017-12-14",
+      "current_price_usd": 1499,
+      "reviews_total": 7113,
+      "unfiltered_reviews_total": 7559
+    },
+    {
+      "steam_appid": 367580,
+      "name": "Hook",
+      "early_access": -2,
+      "steam_release_date": "2015-07-06",
+      "current_price_usd": 99,
+      "reviews_total": 7076,
+      "unfiltered_reviews_total": 7956
+    },
+    {
+      "steam_appid": 784150,
+      "name": "Workers & Resources: Soviet Republic",
+      "early_access": 1,
+      "steam_release_date": "2019-03-15",
+      "current_price_usd": 2999,
+      "reviews_total": 7063,
+      "unfiltered_reviews_total": 7415
+    },
+    {
+      "steam_appid": 232890,
+      "name": "Stronghold Crusader 2",
+      "early_access": -2,
+      "steam_release_date": "2014-09-22",
+      "current_price_usd": 399,
+      "reviews_total": 6990,
+      "unfiltered_reviews_total": 10920
+    },
+    {
+      "steam_appid": 914620,
+      "name": "Mist Survival",
+      "early_access": 1,
+      "steam_release_date": "2018-08-14",
+      "current_price_usd": 1099,
+      "reviews_total": 6967,
+      "unfiltered_reviews_total": 7374
+    },
+    {
+      "steam_appid": 533300,
+      "name": "Zup!",
+      "early_access": -2,
+      "steam_release_date": "2016-10-04",
+      "current_price_usd": 99,
+      "reviews_total": 6928,
+      "unfiltered_reviews_total": 7480
+    },
+    {
+      "steam_appid": 270150,
+      "name": "RUNNING WITH RIFLES",
+      "early_access": -1,
+      "steam_release_date": "2015-04-02",
+      "current_price_usd": 1499,
+      "reviews_total": 6927,
+      "unfiltered_reviews_total": 8243
+    },
+    {
+      "steam_appid": 362680,
+      "name": "Fran Bow",
+      "early_access": -2,
+      "steam_release_date": "2015-08-27",
+      "current_price_usd": 1499,
+      "reviews_total": 6920,
+      "unfiltered_reviews_total": 8040
+    },
+    {
+      "steam_appid": 96100,
+      "name": "Defy Gravity Extended",
+      "early_access": -2,
+      "steam_release_date": "2016-03-18",
+      "current_price_usd": 199,
+      "reviews_total": 6918,
+      "unfiltered_reviews_total": 8699
+    },
+    {
+      "steam_appid": 690830,
+      "name": "Foundation",
+      "early_access": 1,
+      "steam_release_date": "2019-02-01",
+      "current_price_usd": 2999,
+      "reviews_total": 6907,
+      "unfiltered_reviews_total": 7442
+    },
+    {
+      "steam_appid": 210770,
+      "name": "Sanctum 2",
+      "early_access": -2,
+      "steam_release_date": "2013-05-15",
+      "current_price_usd": 1499,
+      "reviews_total": 6900,
+      "unfiltered_reviews_total": 13579
+    },
+    {
+      "steam_appid": 743450,
+      "name": "Monster Prom",
+      "early_access": -2,
+      "steam_release_date": "2018-04-27",
+      "current_price_usd": 1199,
+      "reviews_total": 6897,
+      "unfiltered_reviews_total": 8167
+    },
+    {
+      "steam_appid": 443810,
+      "name": "This Is the Police",
+      "early_access": -2,
+      "steam_release_date": "2016-08-02",
+      "current_price_usd": 1499,
+      "reviews_total": 6850,
+      "unfiltered_reviews_total": 8388
+    },
+    {
+      "steam_appid": 388090,
+      "name": "Five Nights at Freddy's 4",
+      "early_access": -2,
+      "steam_release_date": "2015-07-23",
+      "current_price_usd": 799,
+      "reviews_total": 6840,
+      "unfiltered_reviews_total": 7511
+    },
+    {
+      "steam_appid": 204340,
+      "name": "Serious Sam 2",
+      "early_access": -2,
+      "steam_release_date": "2012-01-31",
+      "current_price_usd": 999,
+      "reviews_total": 6838,
+      "unfiltered_reviews_total": 8272
+    },
+    {
+      "steam_appid": 464060,
+      "name": "RUINER",
+      "early_access": -2,
+      "steam_release_date": "2017-09-26",
+      "current_price_usd": 1999,
+      "reviews_total": 6812,
+      "unfiltered_reviews_total": 8428
+    },
+    {
+      "steam_appid": 224480,
+      "name": "Octodad: Dadliest Catch",
+      "early_access": -2,
+      "steam_release_date": "2014-01-30",
+      "current_price_usd": 1499,
+      "reviews_total": 6803,
+      "unfiltered_reviews_total": 8139
+    },
+    {
+      "steam_appid": 388880,
+      "name": "Oxenfree",
+      "early_access": -2,
+      "steam_release_date": "2016-01-14",
+      "current_price_usd": 999,
+      "reviews_total": 6802,
+      "unfiltered_reviews_total": 8892
+    },
+    {
+      "steam_appid": 359050,
+      "name": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad",
+      "early_access": -2,
+      "steam_release_date": "2015-09-02",
+      "current_price_usd": 99,
+      "reviews_total": 6766,
+      "unfiltered_reviews_total": 9180
+    },
+    {
+      "steam_appid": 1127400,
+      "name": "Mindustry",
+      "early_access": -2,
+      "steam_release_date": "2019-09-26",
+      "current_price_usd": 599,
+      "reviews_total": 6761,
+      "unfiltered_reviews_total": 7313
+    },
+    {
+      "steam_appid": 34900,
+      "name": "Bad Rats: the Rats' Revenge",
+      "early_access": -2,
+      "steam_release_date": "2009-07-20",
+      "current_price_usd": 49,
+      "reviews_total": 6746,
+      "unfiltered_reviews_total": 14170
+    },
+    {
+      "steam_appid": 248610,
+      "name": "Door Kickers",
+      "early_access": -1,
+      "steam_release_date": "2014-10-20",
+      "current_price_usd": 1999,
+      "reviews_total": 6713,
+      "unfiltered_reviews_total": 8371
+    },
+    {
+      "steam_appid": 403190,
+      "name": "Planetbase",
+      "early_access": -2,
+      "steam_release_date": "2015-10-15",
+      "current_price_usd": 1499,
+      "reviews_total": 6702,
+      "unfiltered_reviews_total": 7430
+    },
+    {
+      "steam_appid": 266010,
+      "name": "LYNE",
+      "early_access": -2,
+      "steam_release_date": "2014-03-17",
+      "current_price_usd": 299,
+      "reviews_total": 6670,
+      "unfiltered_reviews_total": 7672
+    },
+    {
+      "steam_appid": 1150690,
+      "name": "OMORI",
+      "early_access": -2,
+      "steam_release_date": "2020-12-25",
+      "current_price_usd": 1999,
+      "reviews_total": 6648,
+      "unfiltered_reviews_total": 7324
+    },
+    {
+      "steam_appid": 311310,
+      "name": "Naval Action",
+      "early_access": -1,
+      "steam_release_date": "2019-06-13",
+      "current_price_usd": 1999,
+      "reviews_total": 6638,
+      "unfiltered_reviews_total": 8019
+    },
+    {
+      "steam_appid": 397950,
+      "name": "Clustertruck",
+      "early_access": -2,
+      "steam_release_date": "2016-09-27",
+      "current_price_usd": 1499,
+      "reviews_total": 6625,
+      "unfiltered_reviews_total": 8334
+    },
+    {
+      "steam_appid": 491950,
+      "name": "Orwell: Keeping an Eye On You",
+      "early_access": -2,
+      "steam_release_date": "2016-10-27",
+      "current_price_usd": 999,
+      "reviews_total": 6609,
+      "unfiltered_reviews_total": 12243
+    },
+    {
+      "steam_appid": 616560,
+      "name": "Ultimate Epic Battle Simulator",
+      "early_access": -1,
+      "steam_release_date": "2017-06-01",
+      "current_price_usd": 1499,
+      "reviews_total": 6569,
+      "unfiltered_reviews_total": 8443
+    },
+    {
+      "steam_appid": 410900,
+      "name": "Forts",
+      "early_access": -2,
+      "steam_release_date": "2017-04-19",
+      "current_price_usd": 1499,
+      "reviews_total": 6527,
+      "unfiltered_reviews_total": 8075
+    },
+    {
+      "steam_appid": 552620,
+      "name": "ATOM RPG: Post-apocalyptic indie game",
+      "early_access": -1,
+      "steam_release_date": "2018-12-19",
+      "current_price_usd": 1499,
+      "reviews_total": 6511,
+      "unfiltered_reviews_total": 6942
+    },
+    {
+      "steam_appid": 306020,
+      "name": "Bloons TD 5",
+      "early_access": -2,
+      "steam_release_date": "2014-11-19",
+      "current_price_usd": 999,
+      "reviews_total": 6504,
+      "unfiltered_reviews_total": 7316
+    },
+    {
+      "steam_appid": 665360,
+      "name": "Comedy Night",
+      "early_access": -2,
+      "steam_release_date": "2017-08-24",
+      "current_price_usd": 499,
+      "reviews_total": 6454,
+      "unfiltered_reviews_total": 7283
+    },
+    {
+      "steam_appid": 537800,
+      "name": "Bomber Crew",
+      "early_access": -2,
+      "steam_release_date": "2017-10-19",
+      "current_price_usd": 1499,
+      "reviews_total": 6384,
+      "unfiltered_reviews_total": 7930
+    },
+    {
+      "steam_appid": 430960,
+      "name": "Lucy -The Eternity She Wished For-",
+      "early_access": -2,
+      "steam_release_date": "2016-02-28",
+      "current_price_usd": 999,
+      "reviews_total": 6378,
+      "unfiltered_reviews_total": 6756
+    },
+    {
+      "steam_appid": 40700,
+      "name": "Machinarium",
+      "early_access": -2,
+      "steam_release_date": "2009-10-16",
+      "current_price_usd": 1499,
+      "reviews_total": 6355,
+      "unfiltered_reviews_total": 8440
+    },
+    {
+      "steam_appid": 604240,
+      "name": "Shotgun Farmers",
+      "early_access": -1,
+      "steam_release_date": "2019-03-08",
+      "current_price_usd": 999,
+      "reviews_total": 6348,
+      "unfiltered_reviews_total": 6795
+    },
+    {
+      "steam_appid": 397340,
+      "name": "SimplePlanes",
+      "early_access": -2,
+      "steam_release_date": "2015-12-17",
+      "current_price_usd": 1299,
+      "reviews_total": 6332,
+      "unfiltered_reviews_total": 7135
+    },
+    {
+      "steam_appid": 258520,
+      "name": "The Vanishing of Ethan Carter",
+      "early_access": -2,
+      "steam_release_date": "2014-09-25",
+      "current_price_usd": 1999,
+      "reviews_total": 6297,
+      "unfiltered_reviews_total": 8267
+    },
+    {
+      "steam_appid": 320240,
+      "name": "We Happy Few",
+      "early_access": -1,
+      "steam_release_date": "2018-08-10",
+      "current_price_usd": 5999,
+      "reviews_total": 6283,
+      "unfiltered_reviews_total": 7673
+    },
+    {
+      "steam_appid": 535230,
+      "name": "Domina",
+      "early_access": -2,
+      "steam_release_date": "2017-04-03",
+      "current_price_usd": 999,
+      "reviews_total": 6276,
+      "unfiltered_reviews_total": 7182
+    },
+    {
+      "steam_appid": 291860,
+      "name": "Pit People®",
+      "early_access": -1,
+      "steam_release_date": "2018-03-02",
+      "current_price_usd": 1999,
+      "reviews_total": 6270,
+      "unfiltered_reviews_total": 6869
+    },
+    {
+      "steam_appid": 474750,
+      "name": "Reigns",
+      "early_access": -2,
+      "steam_release_date": "2016-08-11",
+      "current_price_usd": 299,
+      "reviews_total": 6265,
+      "unfiltered_reviews_total": 6719
+    },
+    {
+      "steam_appid": 496300,
+      "name": "Kingdom: New Lands",
+      "early_access": -2,
+      "steam_release_date": "2016-08-09",
+      "current_price_usd": 1499,
+      "reviews_total": 6208,
+      "unfiltered_reviews_total": 7840
+    },
+    {
+      "steam_appid": 972660,
+      "name": "Spiritfarer®",
+      "early_access": -2,
+      "steam_release_date": "2020-08-18",
+      "current_price_usd": 2999,
+      "reviews_total": 6197,
+      "unfiltered_reviews_total": 7128
+    },
+    {
+      "steam_appid": 362490,
+      "name": "Exanima",
+      "early_access": 1,
+      "steam_release_date": "2015-04-29",
+      "current_price_usd": 1499,
+      "reviews_total": 6192,
+      "unfiltered_reviews_total": 6707
+    },
+    {
+      "steam_appid": 208140,
+      "name": "Endless Space® - Definitive Edition",
+      "early_access": -2,
+      "steam_release_date": "2012-07-04",
+      "current_price_usd": 999,
+      "reviews_total": 6187,
+      "unfiltered_reviews_total": 8464
+    },
+    {
+      "steam_appid": 506610,
+      "name": "Five Nights at Freddy's: Sister Location",
+      "early_access": -2,
+      "steam_release_date": "2016-10-07",
+      "current_price_usd": 799,
+      "reviews_total": 6175,
+      "unfiltered_reviews_total": 6835
+    },
+    {
+      "steam_appid": 290300,
+      "name": "Rebel Galaxy",
+      "early_access": -2,
+      "steam_release_date": "2015-10-20",
+      "current_price_usd": 1999,
+      "reviews_total": 6131,
+      "unfiltered_reviews_total": 6986
+    },
+    {
+      "steam_appid": 304650,
+      "name": "SUNLESS SEA",
+      "early_access": -1,
+      "steam_release_date": "2015-02-06",
+      "current_price_usd": 1899,
+      "reviews_total": 6123,
+      "unfiltered_reviews_total": 7719
+    },
+    {
+      "steam_appid": 462770,
+      "name": "Pyre",
+      "early_access": -2,
+      "steam_release_date": "2017-07-25",
+      "current_price_usd": 1999,
+      "reviews_total": 6109,
+      "unfiltered_reviews_total": 6827
+    },
+    {
+      "steam_appid": 1178490,
+      "name": "港詭實錄ParanormalHK",
+      "early_access": -2,
+      "steam_release_date": "2020-01-06",
+      "current_price_usd": 1299,
+      "reviews_total": 6079,
+      "unfiltered_reviews_total": 6870
+    },
+    {
+      "steam_appid": 263980,
+      "name": "Out There Somewhere",
+      "early_access": -2,
+      "steam_release_date": "2016-03-14",
+      "current_price_usd": 99,
+      "reviews_total": 6078,
+      "unfiltered_reviews_total": 6822
+    },
+    {
+      "steam_appid": 280160,
+      "name": "Aragami",
+      "early_access": -2,
+      "steam_release_date": "2016-10-04",
+      "current_price_usd": 1999,
+      "reviews_total": 6077,
+      "unfiltered_reviews_total": 7743
+    },
+    {
+      "steam_appid": 215530,
+      "name": "The Incredible Adventures of Van Helsing",
+      "early_access": -2,
+      "steam_release_date": "2013-05-22",
+      "current_price_usd": 1499,
+      "reviews_total": 6074,
+      "unfiltered_reviews_total": 8282
+    },
+    {
+      "steam_appid": 245470,
+      "name": "Democracy 3",
+      "early_access": -2,
+      "steam_release_date": "2013-10-14",
+      "current_price_usd": 2499,
+      "reviews_total": 6047,
+      "unfiltered_reviews_total": 7026
+    },
+    {
+      "steam_appid": 746850,
+      "name": "Cloudpunk",
+      "early_access": -2,
+      "steam_release_date": "2020-04-23",
+      "current_price_usd": 1999,
+      "reviews_total": 6045,
+      "unfiltered_reviews_total": 6546
+    },
+    {
+      "steam_appid": 578620,
+      "name": "GORN",
+      "early_access": -1,
+      "steam_release_date": "2019-07-18",
+      "current_price_usd": 1999,
+      "reviews_total": 6042,
+      "unfiltered_reviews_total": 6655
+    },
+    {
+      "steam_appid": 622650,
+      "name": "Bendy and the Ink Machine",
+      "early_access": -2,
+      "steam_release_date": "2017-04-27",
+      "current_price_usd": 1999,
+      "reviews_total": 6020,
+      "unfiltered_reviews_total": 15822
+    },
+    {
+      "steam_appid": 541570,
+      "name": "Sally Face",
+      "early_access": -2,
+      "steam_release_date": "2016-12-14",
+      "current_price_usd": 299,
+      "reviews_total": 5998,
+      "unfiltered_reviews_total": 6428
+    },
+    {
+      "steam_appid": 423230,
+      "name": "Furi",
+      "early_access": -2,
+      "steam_release_date": "2016-07-05",
+      "current_price_usd": 1999,
+      "reviews_total": 5985,
+      "unfiltered_reviews_total": 7812
+    },
+    {
+      "steam_appid": 227860,
+      "name": "Castle Story",
+      "early_access": -1,
+      "steam_release_date": "2017-08-17",
+      "current_price_usd": 2499,
+      "reviews_total": 5890,
+      "unfiltered_reviews_total": 6890
+    },
+    {
+      "steam_appid": 296300,
+      "name": "Ballistic Overkill",
+      "early_access": -1,
+      "steam_release_date": "2017-03-28",
+      "current_price_usd": 199,
+      "reviews_total": 5853,
+      "unfiltered_reviews_total": 6777
+    },
+    {
+      "steam_appid": 1126290,
+      "name": "Lost",
+      "early_access": -2,
+      "steam_release_date": "2019-09-30",
+      "current_price_usd": 199,
+      "reviews_total": 5836,
+      "unfiltered_reviews_total": 5991
+    },
+    {
+      "steam_appid": 701160,
+      "name": "Kingdom Two Crowns",
+      "early_access": -2,
+      "steam_release_date": "2018-12-11",
+      "current_price_usd": 1999,
+      "reviews_total": 5793,
+      "unfiltered_reviews_total": 6904
+    },
+    {
+      "steam_appid": 469820,
+      "name": "Genital Jousting",
+      "early_access": -1,
+      "steam_release_date": "2018-01-18",
+      "current_price_usd": 699,
+      "reviews_total": 5792,
+      "unfiltered_reviews_total": 7345
+    },
+    {
+      "steam_appid": 361280,
+      "name": "Turmoil",
+      "early_access": -1,
+      "steam_release_date": "2016-06-02",
+      "current_price_usd": 999,
+      "reviews_total": 5772,
+      "unfiltered_reviews_total": 7072
+    },
+    {
+      "steam_appid": 253430,
+      "name": "CastleMiner Z",
+      "early_access": -2,
+      "steam_release_date": "2014-02-03",
+      "current_price_usd": 399,
+      "reviews_total": 5764,
+      "unfiltered_reviews_total": 8160
+    },
+    {
+      "steam_appid": 456750,
+      "name": "The Room Three",
+      "early_access": -2,
+      "steam_release_date": "2018-11-13",
+      "current_price_usd": 599,
+      "reviews_total": 5762,
+      "unfiltered_reviews_total": 6020
+    },
+    {
+      "steam_appid": 496240,
+      "name": "Onward",
+      "early_access": 1,
+      "steam_release_date": "2016-08-29",
+      "current_price_usd": 2499,
+      "reviews_total": 5739,
+      "unfiltered_reviews_total": 6197
+    },
+    {
+      "steam_appid": 242640,
+      "name": "Styx: Master of Shadows",
+      "early_access": -2,
+      "steam_release_date": "2014-10-07",
+      "current_price_usd": 1999,
+      "reviews_total": 5733,
+      "unfiltered_reviews_total": 6939
+    },
+    {
+      "steam_appid": 690640,
+      "name": "Trine 4: The Nightmare Prince",
+      "early_access": -2,
+      "steam_release_date": "2019-10-08",
+      "current_price_usd": 2999,
+      "reviews_total": 5717,
+      "unfiltered_reviews_total": 6781
+    },
+    {
+      "steam_appid": 327410,
+      "name": "A Bird Story",
+      "early_access": -2,
+      "steam_release_date": "2014-11-07",
+      "current_price_usd": 399,
+      "reviews_total": 5715,
+      "unfiltered_reviews_total": 8147
+    },
+    {
+      "steam_appid": 218680,
+      "name": "Scribblenauts Unlimited",
+      "early_access": -2,
+      "steam_release_date": "2012-11-19",
+      "current_price_usd": 1999,
+      "reviews_total": 5710,
+      "unfiltered_reviews_total": 9163
+    },
+    {
+      "steam_appid": 232810,
+      "name": "Godus",
+      "early_access": 1,
+      "steam_release_date": "1970-01-01",
+      "current_price_usd": 0,
+      "reviews_total": 5693,
+      "unfiltered_reviews_total": 6974
+    },
+    {
+      "steam_appid": 435400,
+      "name": "Hidden Folks",
+      "early_access": -2,
+      "steam_release_date": "2017-02-15",
+      "current_price_usd": 1299,
+      "reviews_total": 5686,
+      "unfiltered_reviews_total": 7060
+    },
+    {
+      "steam_appid": 528230,
+      "name": "SYNTHETIK: Legion Rising",
+      "early_access": -2,
+      "steam_release_date": "2018-03-15",
+      "current_price_usd": 1999,
+      "reviews_total": 5678,
+      "unfiltered_reviews_total": 7596
+    },
+    {
+      "steam_appid": 328080,
+      "name": "Rise to Ruins",
+      "early_access": -1,
+      "steam_release_date": "2019-10-14",
+      "current_price_usd": 1499,
+      "reviews_total": 5671,
+      "unfiltered_reviews_total": 6102
+    },
+    {
+      "steam_appid": 861650,
+      "name": "Session: Skateboarding Sim Game",
+      "early_access": 1,
+      "steam_release_date": "2019-09-17",
+      "current_price_usd": 1999,
+      "reviews_total": 5668,
+      "unfiltered_reviews_total": 6017
+    },
+    {
+      "steam_appid": 690530,
+      "name": "灵魂筹码 Soul at Stake",
+      "early_access": 1,
+      "steam_release_date": "2018-06-25",
+      "current_price_usd": 539,
+      "reviews_total": 5624,
+      "unfiltered_reviews_total": 7310
+    },
+    {
+      "steam_appid": 218640,
+      "name": "Lucius",
+      "early_access": -2,
+      "steam_release_date": "2012-10-26",
+      "current_price_usd": 999,
+      "reviews_total": 5616,
+      "unfiltered_reviews_total": 8392
+    },
+    {
+      "steam_appid": 246420,
+      "name": "Kingdom Rush  - Tower Defense",
+      "early_access": -2,
+      "steam_release_date": "2014-01-06",
+      "current_price_usd": 999,
+      "reviews_total": 5589,
+      "unfiltered_reviews_total": 7383
+    },
+    {
+      "steam_appid": 656350,
+      "name": "UnderMine",
+      "early_access": -1,
+      "steam_release_date": "2020-08-06",
+      "current_price_usd": 1999,
+      "reviews_total": 5586,
+      "unfiltered_reviews_total": 5950
+    },
+    {
+      "steam_appid": 633460,
+      "name": "Tannenberg",
+      "early_access": -1,
+      "steam_release_date": "2017-11-16",
+      "current_price_usd": 1999,
+      "reviews_total": 5584,
+      "unfiltered_reviews_total": 6863
+    },
+    {
+      "steam_appid": 924140,
+      "name": "Hand Simulator: Survival",
+      "early_access": -2,
+      "steam_release_date": "2019-12-17",
+      "current_price_usd": 99,
+      "reviews_total": 5575,
+      "unfiltered_reviews_total": 7235
+    },
+    {
+      "steam_appid": 673880,
+      "name": "Warhammer 40,000: Mechanicus",
+      "early_access": -2,
+      "steam_release_date": "2018-11-15",
+      "current_price_usd": 2999,
+      "reviews_total": 5543,
+      "unfiltered_reviews_total": 7355
+    },
+    {
+      "steam_appid": 429050,
+      "name": "Feed and Grow: Fish",
+      "early_access": 1,
+      "steam_release_date": "2016-01-08",
+      "current_price_usd": 1499,
+      "reviews_total": 5528,
+      "unfiltered_reviews_total": 5832
+    },
+    {
+      "steam_appid": 360740,
+      "name": "Downwell",
+      "early_access": -2,
+      "steam_release_date": "2015-10-15",
+      "current_price_usd": 299,
+      "reviews_total": 5493,
+      "unfiltered_reviews_total": 6012
+    },
+    {
+      "steam_appid": 319910,
+      "name": "Trine 3: The Artifacts of Power",
+      "early_access": -1,
+      "steam_release_date": "2015-08-20",
+      "current_price_usd": 2199,
+      "reviews_total": 5487,
+      "unfiltered_reviews_total": 7033
+    },
+    {
+      "steam_appid": 446020,
+      "name": "Jalopy - Road Trip Car Driving Simulator Indie Game",
+      "early_access": -1,
+      "steam_release_date": "2018-03-28",
+      "current_price_usd": 1499,
+      "reviews_total": 5480,
+      "unfiltered_reviews_total": 7045
+    },
+    {
+      "steam_appid": 1049890,
+      "name": "Little Witch Nobeta",
+      "early_access": 1,
+      "steam_release_date": "2020-06-23",
+      "current_price_usd": 999,
+      "reviews_total": 5436,
+      "unfiltered_reviews_total": 5835
+    },
+    {
+      "steam_appid": 1016920,
+      "name": "Unrailed!",
+      "early_access": -1,
+      "steam_release_date": "2020-09-23",
+      "current_price_usd": 1999,
+      "reviews_total": 5432,
+      "unfiltered_reviews_total": 8756
+    },
+    {
+      "steam_appid": 276810,
+      "name": "Mordheim: City of the Damned",
+      "early_access": -1,
+      "steam_release_date": "2015-11-19",
+      "current_price_usd": 1999,
+      "reviews_total": 5399,
+      "unfiltered_reviews_total": 6446
+    },
+    {
+      "steam_appid": 268750,
+      "name": "Magicite",
+      "early_access": -1,
+      "steam_release_date": "2014-06-09",
+      "current_price_usd": 999,
+      "reviews_total": 5394,
+      "unfiltered_reviews_total": 7070
+    },
+    {
+      "steam_appid": 354140,
+      "name": "Five Nights at Freddy's 3",
+      "early_access": -2,
+      "steam_release_date": "2015-03-02",
+      "current_price_usd": 799,
+      "reviews_total": 5392,
+      "unfiltered_reviews_total": 5976
+    },
+    {
+      "steam_appid": 584980,
+      "name": "Late Shift",
+      "early_access": -2,
+      "steam_release_date": "2017-04-18",
+      "current_price_usd": 1299,
+      "reviews_total": 5376,
+      "unfiltered_reviews_total": 6398
+    },
+    {
+      "steam_appid": 70400,
+      "name": "Recettear: An Item Shop's Tale",
+      "early_access": -2,
+      "steam_release_date": "2010-09-10",
+      "current_price_usd": 1999,
+      "reviews_total": 5373,
+      "unfiltered_reviews_total": 6098
+    },
+    {
+      "steam_appid": 562220,
+      "name": "Zup! 2",
+      "early_access": -2,
+      "steam_release_date": "2016-12-05",
+      "current_price_usd": 99,
+      "reviews_total": 5369,
+      "unfiltered_reviews_total": 5759
+    },
+    {
+      "steam_appid": 342180,
+      "name": "Arizona Sunshine®",
+      "early_access": -2,
+      "steam_release_date": "2016-12-06",
+      "current_price_usd": 3999,
+      "reviews_total": 5368,
+      "unfiltered_reviews_total": 6479
+    },
+    {
+      "steam_appid": 356570,
+      "name": "Party Hard",
+      "early_access": -2,
+      "steam_release_date": "2015-08-25",
+      "current_price_usd": 999,
+      "reviews_total": 5354,
+      "unfiltered_reviews_total": 7189
+    },
+    {
+      "steam_appid": 264140,
+      "name": "Pixel Piracy",
+      "early_access": -1,
+      "steam_release_date": "2014-07-31",
+      "current_price_usd": 999,
+      "reviews_total": 5354,
+      "unfiltered_reviews_total": 6908
+    },
+    {
+      "steam_appid": 597220,
+      "name": "West of Loathing",
+      "early_access": -2,
+      "steam_release_date": "2017-08-10",
+      "current_price_usd": 1099,
+      "reviews_total": 5350,
+      "unfiltered_reviews_total": 5691
+    },
+    {
+      "steam_appid": 378610,
+      "name": "Valley",
+      "early_access": -2,
+      "steam_release_date": "2016-08-24",
+      "current_price_usd": 1499,
+      "reviews_total": 5344,
+      "unfiltered_reviews_total": 5698
+    },
+    {
+      "steam_appid": 268130,
+      "name": "Heat Signature",
+      "early_access": -2,
+      "steam_release_date": "2017-09-21",
+      "current_price_usd": 1499,
+      "reviews_total": 5286,
+      "unfiltered_reviews_total": 5620
+    },
+    {
+      "steam_appid": 589780,
+      "name": "The Red Strings Club",
+      "early_access": -2,
+      "steam_release_date": "2018-01-22",
+      "current_price_usd": 1499,
+      "reviews_total": 5286,
+      "unfiltered_reviews_total": 5729
+    },
+    {
+      "steam_appid": 433950,
+      "name": "Bit Blaster XL",
+      "early_access": -2,
+      "steam_release_date": "2016-01-22",
+      "current_price_usd": 99,
+      "reviews_total": 5266,
+      "unfiltered_reviews_total": 5901
+    },
+    {
+      "steam_appid": 313740,
+      "name": "Sakura Spirit",
+      "early_access": -2,
+      "steam_release_date": "2014-07-09",
+      "current_price_usd": 999,
+      "reviews_total": 5256,
+      "unfiltered_reviews_total": 7359
+    },
+    {
+      "steam_appid": 361800,
+      "name": "Tree of Life",
+      "early_access": -1,
+      "steam_release_date": "2017-08-17",
+      "current_price_usd": 799,
+      "reviews_total": 5254,
+      "unfiltered_reviews_total": 6824
+    },
+    {
+      "steam_appid": 26800,
+      "name": "Braid",
+      "early_access": -2,
+      "steam_release_date": "2009-04-10",
+      "current_price_usd": 1499,
+      "reviews_total": 5203,
+      "unfiltered_reviews_total": 7927
+    },
+    {
+      "steam_appid": 753420,
+      "name": "Dungreed",
+      "early_access": -2,
+      "steam_release_date": "2018-02-14",
+      "current_price_usd": 999,
+      "reviews_total": 5191,
+      "unfiltered_reviews_total": 5496
+    },
+    {
+      "steam_appid": 939400,
+      "name": "LoveChoice",
+      "early_access": 1,
+      "steam_release_date": "2018-09-30",
+      "current_price_usd": 199,
+      "reviews_total": 5184,
+      "unfiltered_reviews_total": 6041
+    },
+    {
+      "steam_appid": 251990,
+      "name": "Long Live The Queen",
+      "early_access": -2,
+      "steam_release_date": "2013-11-08",
+      "current_price_usd": 999,
+      "reviews_total": 5163,
+      "unfiltered_reviews_total": 6431
+    },
+    {
+      "steam_appid": 1264670,
+      "name": "The Wind Road 紫塞秋风",
+      "early_access": -2,
+      "steam_release_date": "2020-07-09",
+      "current_price_usd": 2999,
+      "reviews_total": 5159,
+      "unfiltered_reviews_total": 5904
+    },
+    {
+      "steam_appid": 502520,
+      "name": "Ultimate General: Civil War",
+      "early_access": -1,
+      "steam_release_date": "2017-07-14",
+      "current_price_usd": 2999,
+      "reviews_total": 5129,
+      "unfiltered_reviews_total": 5311
+    },
+    {
+      "steam_appid": 598700,
+      "name": "The Vagrant",
+      "early_access": -1,
+      "steam_release_date": "2018-07-13",
+      "current_price_usd": 399,
+      "reviews_total": 5122,
+      "unfiltered_reviews_total": 5352
+    },
+    {
+      "steam_appid": 252330,
+      "name": "Slender: The Arrival",
+      "early_access": -2,
+      "steam_release_date": "2013-10-28",
+      "current_price_usd": 999,
+      "reviews_total": 5065,
+      "unfiltered_reviews_total": 6148
+    },
+    {
+      "steam_appid": 738520,
+      "name": "Breathedge",
+      "early_access": 1,
+      "steam_release_date": "2018-09-13",
+      "current_price_usd": 1999,
+      "reviews_total": 5057,
+      "unfiltered_reviews_total": 5427
+    },
+    {
+      "steam_appid": 239200,
+      "name": "Amnesia: A Machine for Pigs",
+      "early_access": -2,
+      "steam_release_date": "2013-09-10",
+      "current_price_usd": 1999,
+      "reviews_total": 5048,
+      "unfiltered_reviews_total": 8374
+    },
+    {
+      "steam_appid": 382310,
+      "name": "Eco",
+      "early_access": 1,
+      "steam_release_date": "2018-02-06",
+      "current_price_usd": 2999,
+      "reviews_total": 5006,
+      "unfiltered_reviews_total": 6357
+    },
+    {
+      "steam_appid": 333950,
+      "name": "Medieval Engineers",
+      "early_access": -1,
+      "steam_release_date": "2015-02-19",
+      "current_price_usd": 999,
+      "reviews_total": 4996,
+      "unfiltered_reviews_total": 6397
+    },
+    {
+      "steam_appid": 230050,
+      "name": "DLC Quest",
+      "early_access": -2,
+      "steam_release_date": "2013-03-18",
+      "current_price_usd": 299,
+      "reviews_total": 4995,
+      "unfiltered_reviews_total": 6222
+    },
+    {
+      "steam_appid": 526160,
+      "name": "The Wild Eight",
+      "early_access": -1,
+      "steam_release_date": "2019-10-03",
+      "current_price_usd": 2499,
+      "reviews_total": 4985,
+      "unfiltered_reviews_total": 5699
+    },
+    {
+      "steam_appid": 91700,
+      "name": "E.Y.E: Divine Cybermancy",
+      "early_access": -2,
+      "steam_release_date": "2011-07-29",
+      "current_price_usd": 999,
+      "reviews_total": 4970,
+      "unfiltered_reviews_total": 6339
+    },
+    {
+      "steam_appid": 94400,
+      "name": "Nidhogg",
+      "early_access": -2,
+      "steam_release_date": "2014-01-13",
+      "current_price_usd": 999,
+      "reviews_total": 4965,
+      "unfiltered_reviews_total": 6902
+    },
+    {
+      "steam_appid": 581630,
+      "name": "Sword With Sauce",
+      "early_access": -1,
+      "steam_release_date": "2018-03-20",
+      "current_price_usd": 299,
+      "reviews_total": 4944,
+      "unfiltered_reviews_total": 5140
+    },
+    {
+      "steam_appid": 530890,
+      "name": "Haydee",
+      "early_access": -2,
+      "steam_release_date": "2016-09-26",
+      "current_price_usd": 1499,
+      "reviews_total": 4927,
+      "unfiltered_reviews_total": 5307
+    },
+    {
+      "steam_appid": 1256670,
+      "name": "Library Of Ruina",
+      "early_access": 1,
+      "steam_release_date": "2020-05-15",
+      "current_price_usd": 2999,
+      "reviews_total": 4925,
+      "unfiltered_reviews_total": 5488
+    },
+    {
+      "steam_appid": 321360,
+      "name": "Primal Carnage: Extinction",
+      "early_access": -1,
+      "steam_release_date": "2015-04-03",
+      "current_price_usd": 1299,
+      "reviews_total": 4924,
+      "unfiltered_reviews_total": 6082
+    },
+    {
+      "steam_appid": 921630,
+      "name": "音灵 INVAXION",
+      "early_access": -2,
+      "steam_release_date": "2018-12-19",
+      "current_price_usd": 1299,
+      "reviews_total": 4860,
+      "unfiltered_reviews_total": 5391
+    },
+    {
+      "steam_appid": 686200,
+      "name": "Door Kickers: Action Squad",
+      "early_access": -1,
+      "steam_release_date": "2018-09-10",
+      "current_price_usd": 1399,
+      "reviews_total": 4859,
+      "unfiltered_reviews_total": 5517
+    },
+    {
+      "steam_appid": 375480,
+      "name": "Chronicon",
+      "early_access": -1,
+      "steam_release_date": "2020-08-21",
+      "current_price_usd": 1399,
+      "reviews_total": 4858,
+      "unfiltered_reviews_total": 5239
+    },
+    {
+      "steam_appid": 215470,
+      "name": "Primal Carnage",
+      "early_access": -2,
+      "steam_release_date": "2012-10-29",
+      "current_price_usd": 499,
+      "reviews_total": 4840,
+      "unfiltered_reviews_total": 5855
+    },
+    {
+      "steam_appid": 230190,
+      "name": "War for the Overworld",
+      "early_access": -1,
+      "steam_release_date": "2015-04-02",
+      "current_price_usd": 2999,
+      "reviews_total": 4831,
+      "unfiltered_reviews_total": 6089
+    },
+    {
+      "steam_appid": 296470,
+      "name": "Mount Your Friends",
+      "early_access": -2,
+      "steam_release_date": "2014-07-29",
+      "current_price_usd": 499,
+      "reviews_total": 4830,
+      "unfiltered_reviews_total": 7226
+    },
+    {
+      "steam_appid": 508900,
+      "name": "Zup! X",
+      "early_access": -2,
+      "steam_release_date": "2018-05-17",
+      "current_price_usd": 99,
+      "reviews_total": 4826,
+      "unfiltered_reviews_total": 5113
+    },
+    {
+      "steam_appid": 1106840,
+      "name": "Hydroneer",
+      "early_access": -2,
+      "steam_release_date": "2020-05-08",
+      "current_price_usd": 999,
+      "reviews_total": 4817,
+      "unfiltered_reviews_total": 5033
+    },
+    {
+      "steam_appid": 102600,
+      "name": "Orcs Must Die!",
+      "early_access": -2,
+      "steam_release_date": "2011-10-11",
+      "current_price_usd": 999,
+      "reviews_total": 4801,
+      "unfiltered_reviews_total": 6316
+    },
+    {
+      "steam_appid": 295790,
+      "name": "Never Alone (Kisima Ingitchuna)",
+      "early_access": -2,
+      "steam_release_date": "2014-11-18",
+      "current_price_usd": 1499,
+      "reviews_total": 4792,
+      "unfiltered_reviews_total": 7333
+    },
+    {
+      "steam_appid": 395170,
+      "name": "DISTRAINT: Deluxe Edition",
+      "early_access": -2,
+      "steam_release_date": "2015-10-21",
+      "current_price_usd": 499,
+      "reviews_total": 4790,
+      "unfiltered_reviews_total": 9464
+    },
+    {
+      "steam_appid": 232010,
+      "name": "Euro Truck Simulator",
+      "early_access": -2,
+      "steam_release_date": "2013-03-08",
+      "current_price_usd": 499,
+      "reviews_total": 4785,
+      "unfiltered_reviews_total": 5728
+    },
+    {
+      "steam_appid": 1055540,
+      "name": "A Short Hike",
+      "early_access": -2,
+      "steam_release_date": "2019-07-30",
+      "current_price_usd": 799,
+      "reviews_total": 4775,
+      "unfiltered_reviews_total": 6091
+    },
+    {
+      "steam_appid": 70300,
+      "name": "VVVVVV",
+      "early_access": -2,
+      "steam_release_date": "2010-09-07",
+      "current_price_usd": 499,
+      "reviews_total": 4768,
+      "unfiltered_reviews_total": 8039
+    },
+    {
+      "steam_appid": 49600,
+      "name": "Beat Hazard",
+      "early_access": -2,
+      "steam_release_date": "2010-04-15",
+      "current_price_usd": 999,
+      "reviews_total": 4767,
+      "unfiltered_reviews_total": 6952
+    },
+    {
+      "steam_appid": 235800,
+      "name": "Audiosurf 2",
+      "early_access": -1,
+      "steam_release_date": "2015-05-26",
+      "current_price_usd": 1499,
+      "reviews_total": 4759,
+      "unfiltered_reviews_total": 5387
+    },
+    {
+      "steam_appid": 1136160,
+      "name": "Internet Cafe Simulator",
+      "early_access": -2,
+      "steam_release_date": "2019-10-25",
+      "current_price_usd": 999,
+      "reviews_total": 4753,
+      "unfiltered_reviews_total": 5224
+    },
+    {
+      "steam_appid": 764790,
+      "name": "The Messenger",
+      "early_access": -2,
+      "steam_release_date": "2018-08-30",
+      "current_price_usd": 1999,
+      "reviews_total": 4735,
+      "unfiltered_reviews_total": 5701
+    },
+    {
+      "steam_appid": 499520,
+      "name": "The Turing Test",
+      "early_access": -2,
+      "steam_release_date": "2016-08-30",
+      "current_price_usd": 1999,
+      "reviews_total": 4717,
+      "unfiltered_reviews_total": 6116
+    },
+    {
+      "steam_appid": 1148650,
+      "name": "The Legend of Bum-Bo",
+      "early_access": -2,
+      "steam_release_date": "2019-11-12",
+      "current_price_usd": 1499,
+      "reviews_total": 4683,
+      "unfiltered_reviews_total": 4902
+    },
+    {
+      "steam_appid": 575640,
+      "name": "Zup! 3",
+      "early_access": -2,
+      "steam_release_date": "2017-01-12",
+      "current_price_usd": 99,
+      "reviews_total": 4643,
+      "unfiltered_reviews_total": 4882
+    },
+    {
+      "steam_appid": 221260,
+      "name": "Little Inferno",
+      "early_access": -2,
+      "steam_release_date": "2012-11-19",
+      "current_price_usd": 1499,
+      "reviews_total": 4627,
+      "unfiltered_reviews_total": 8334
+    },
+    {
+      "steam_appid": 840800,
+      "name": "Outlaws of the Old West",
+      "early_access": 1,
+      "steam_release_date": "2019-03-12",
+      "current_price_usd": 1999,
+      "reviews_total": 4626,
+      "unfiltered_reviews_total": 5228
+    },
+    {
+      "steam_appid": 1286350,
+      "name": "BPM: BULLETS PER MINUTE",
+      "early_access": -2,
+      "steam_release_date": "2020-09-15",
+      "current_price_usd": 1999,
+      "reviews_total": 4625,
+      "unfiltered_reviews_total": 4969
+    },
+    {
+      "steam_appid": 861540,
+      "name": "Dicey Dungeons",
+      "early_access": -2,
+      "steam_release_date": "2019-08-13",
+      "current_price_usd": 1499,
+      "reviews_total": 4612,
+      "unfiltered_reviews_total": 5271
+    },
+    {
+      "steam_appid": 422970,
+      "name": "Devil Daggers",
+      "early_access": -2,
+      "steam_release_date": "2016-02-18",
+      "current_price_usd": 499,
+      "reviews_total": 4607,
+      "unfiltered_reviews_total": 6118
+    },
+    {
+      "steam_appid": 617670,
+      "name": "Zup! S",
+      "early_access": -2,
+      "steam_release_date": "2018-11-15",
+      "current_price_usd": 99,
+      "reviews_total": 4588,
+      "unfiltered_reviews_total": 4959
+    },
+    {
+      "steam_appid": 316790,
+      "name": "Grim Fandango Remastered",
+      "early_access": -2,
+      "steam_release_date": "2015-01-26",
+      "current_price_usd": 1499,
+      "reviews_total": 4583,
+      "unfiltered_reviews_total": 5796
+    },
+    {
+      "steam_appid": 1070710,
+      "name": "Kind Words (lo fi chill beats to write to)",
+      "early_access": -2,
+      "steam_release_date": "2019-09-12",
+      "current_price_usd": 499,
+      "reviews_total": 4539,
+      "unfiltered_reviews_total": 5484
+    },
+    {
+      "steam_appid": 233610,
+      "name": "Distance",
+      "early_access": -1,
+      "steam_release_date": "2018-09-18",
+      "current_price_usd": 2499,
+      "reviews_total": 4536,
+      "unfiltered_reviews_total": 5914
+    },
+    {
+      "steam_appid": 617830,
+      "name": "SUPERHOT VR",
+      "early_access": -2,
+      "steam_release_date": "2017-05-25",
+      "current_price_usd": 2499,
+      "reviews_total": 4530,
+      "unfiltered_reviews_total": 5383
+    },
+    {
+      "steam_appid": 41000,
+      "name": "Serious Sam HD: The First Encounter",
+      "early_access": -2,
+      "steam_release_date": "2009-11-24",
+      "current_price_usd": 1499,
+      "reviews_total": 4502,
+      "unfiltered_reviews_total": 5732
+    },
+    {
+      "steam_appid": 487120,
+      "name": "Citadel: Forged with Fire",
+      "early_access": -1,
+      "steam_release_date": "2019-11-01",
+      "current_price_usd": 3999,
+      "reviews_total": 4492,
+      "unfiltered_reviews_total": 5302
+    },
+    {
+      "steam_appid": 240760,
+      "name": "Wasteland 2: Director's Cut",
+      "early_access": -1,
+      "steam_release_date": "2014-09-18",
+      "current_price_usd": 2999,
+      "reviews_total": 4483,
+      "unfiltered_reviews_total": 7864
+    },
+    {
+      "steam_appid": 712840,
+      "name": "King Exit",
+      "early_access": -2,
+      "steam_release_date": "2017-10-19",
+      "current_price_usd": 199,
+      "reviews_total": 4473,
+      "unfiltered_reviews_total": 4613
+    },
+    {
+      "steam_appid": 310080,
+      "name": "Hatoful Boyfriend",
+      "early_access": -2,
+      "steam_release_date": "2014-09-04",
+      "current_price_usd": 999,
+      "reviews_total": 4466,
+      "unfiltered_reviews_total": 6249
+    }
+  ]
+}
